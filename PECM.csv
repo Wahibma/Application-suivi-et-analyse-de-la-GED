@@ -1,0 +1,1357 @@
+PROJET;PHASE;EMET;LOT;ZONE;NIVEAU;TYPE DE DOCUMENT;3 caractère compris entre 0 & 9;Titre du document;INDICE;Libellé du document;Dernier indice;Date dépôt GED;Date de réception papier;Ajouté par;Chemin vers le fichier;Commentaire libre;Réponse commentaire libre;Date demande visaARC - DTACC;Retard visaARC - DTACC;Date visaARC - DTACC;VisaARC - DTACC;Visa prévuARC - DTACC;Numéro chrono visaARC - DTACC;Numéro interne visaARC - DTACC;Commentaire visaARC - DTACC;Réponse commentaire visaARC - DTACC;Date demande visaBET STR - SCYNA 4;Retard visaBET STR - SCYNA 4;Date visaBET STR - SCYNA 4;VisaBET STR - SCYNA 4;Visa prévuBET STR - SCYNA 4;Numéro chrono visaBET STR - SCYNA 4;Numéro interne visaBET STR - SCYNA 4;Commentaire visaBET STR - SCYNA 4;Réponse commentaire visaBET STR - SCYNA 4;Date demande visaBET Fluide - ATEC;Retard visaBET Fluide - ATEC;Date visaBET Fluide - ATEC;VisaBET Fluide - ATEC;Visa prévuBET Fluide - ATEC;Numéro chrono visaBET Fluide - ATEC;Numéro interne visaBET Fluide - ATEC;Commentaire visaBET Fluide - ATEC;Réponse commentaire visaBET Fluide - ATEC;Date demande visaCoordinateur SSI - EURO COORD;Retard visaCoordinateur SSI - EURO COORD;Date visaCoordinateur SSI - EURO COORD;VisaCoordinateur SSI - EURO COORD;Visa prévuCoordinateur SSI - EURO COORD;Numéro chrono visaCoordinateur SSI - EURO COORD;Numéro interne visaCoordinateur SSI - EURO COORD;Commentaire visaCoordinateur SSI - EURO COORD;Réponse commentaire visaCoordinateur SSI - EURO COORD;Date demande visaACOUSTIQUE - CAP HORN;Retard visaACOUSTIQUE - CAP HORN;Date visaACOUSTIQUE - CAP HORN;VisaACOUSTIQUE - CAP HORN;Visa prévuACOUSTIQUE - CAP HORN;Numéro chrono visaACOUSTIQUE - CAP HORN;Numéro interne visaACOUSTIQUE - CAP HORN;Commentaire visaACOUSTIQUE - CAP HORN;Réponse commentaire visaACOUSTIQUE - CAP HORN;Date demande visaBDC - BTP CONSULTANTS;Retard visaBDC - BTP CONSULTANTS;Date visaBDC - BTP CONSULTANTS;VisaBDC - BTP CONSULTANTS;Visa prévuBDC - BTP CONSULTANTS;Numéro chrono visaBDC - BTP CONSULTANTS;Numéro interne visaBDC - BTP CONSULTANTS;Commentaire visaBDC - BTP CONSULTANTS;Réponse commentaire visaBDC - BTP CONSULTANTS;Date demande visaBET Façade - ROUX INGENIERIE;Retard visaBET Façade - ROUX INGENIERIE;Date visaBET Façade - ROUX INGENIERIE;VisaBET Façade - ROUX INGENIERIE;Visa prévuBET Façade - ROUX INGENIERIE;Numéro chrono visaBET Façade - ROUX INGENIERIE;Numéro interne visaBET Façade - ROUX INGENIERIE;Commentaire visaBET Façade - ROUX INGENIERIE;Réponse commentaire visaBET Façade - ROUX INGENIERIE;Column82;Column83
+PECM;EXE;DPR;FP;BUR;R+1;FTP;7;FT RIGITONE R;0;RigitoneRActivAirR 818.pdf;;05/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;REF;;45;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-10;29/10/2023;F;;69;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;13;ARISTON VELIS EVO 45L;A;ARISTON VELIS EVO 45L.pdf;DI;18/04/2024;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;18/04/2024;;22/04/2024;VSO;;95;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;13;ARISTON VELIS EVO 45L;0;ARISTON VELIS EVO 45L.pdf;;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;"#1 Kevin GUENOT :
+Bonjour,  les chauffes eau  extra plat Ariston existent en 45l minimum";Aucune réponse au commentaire #1;23/10/2023;;31/10/2023;VAO;;161;;;;;;;;;;;;;23/10/2023;-7;13/11/2023;VSO;;53;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;27/10/2023;H;;28;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;2;BATI TOILETTE;A;en005n_VIGOUR_TOILETTES_BATI_PLAQUES_2023.pdf;DI;18/04/2024;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;18/04/2024;;22/04/2024;VSO;;94;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;2;BATI TOILETTE;0;en005n_VIGOUR_TOILETTES_BATI_PLAQUES_2023.pdf;;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;27/09/2023;-20;31/10/2023;REF;;162;;;;;;;;;;;;;27/09/2023;-47;27/11/2023;VSO;;67;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;27/09/2023;-16;27/10/2023;H;;32;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;FTP;1;FT PORTE DAS;A;FT DAS VV PIVOT LINTEAU.pdf;DI;18/04/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;FTP;1;FT PORTE DAS;0;FT DAS VV PIVOT LINTEAU.pdf;;28/09/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;28/09/2023;-11;23/10/2023;VOB;;88;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/09/2023;-14;27/10/2023;S;;47;;"Meriem ABDELLAOUI :
+Il conviendra de nous communiquer le PV de classement au feu et le PV DAS.";"Julien MATHIEU :
+Bonjour,
+
+Je vous prie de bien vouloir trouver ci-joint le PV DAS et FEU déjà envoyé le 22/11/2023 par mail
+ fr :  
+D-240027.pdf";;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;PLN;1;PLANS EXE CLOISONS DOUBLAGES;C;KRT Plan doublages - cloisons R01 indice A.pdf;DI;18/04/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Pièces graphiques;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;PLN;1;PLANS EXE CLOISONS DOUBLAGES;B;KRT Plan doublages - cloisons R01 indice A.pdf;;15/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Pièces graphiques;;;15/12/2023;-13;11/01/2024;VAO;;224;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/12/2023;;15/12/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;PLN;1;PLANS EXE CLOISONS DOUBLAGES;A;KRT Plan doublages - cloisons R01 indice A.pdf;;10/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Pièces graphiques;;;10/10/2023;-2;27/10/2023;VAO;;129;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10/10/2023;;;;25/10/2023;;;;;10/10/2023;-4;29/10/2023;S;;96;;"Meriem ABDELLAOUI :
+Il conviendra de nous communique les procès-verbaux justificatifs des résistances au feu.";;10/10/2023;-9;03/11/2023;NC;;7;;"Vincent Pottier :
+hors mission";;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;2;FT COFFRES STORES;A;Documentation COFFRE_web 2023.pdf;;29/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;29/11/2023;;11/12/2023;VAO;;209;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;29/11/2023;-26;09/01/2024;F;;161;;;;29/11/2023;-4;18/12/2023;VSO;;17;27;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;2;FT COFFRES STORES;0;Documentation COFFRE_web 2023.pdf;;12/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;12/10/2023;-6;01/11/2023;VAO;;165;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;12/10/2023;;;;27/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;3;FT TISSUS;C;screen-design_m-screen-8503-8505_fr.pdf;DI;18/04/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;3;FT TISSUS;B;screen-design_m-screen-8503-8505_fr.pdf;;16/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;16/02/2024;;29/02/2024;VAO;;264;;;"Romario BANDULA :
+Le PV de la toile est dans le dossier ""pièces écrites"" du même lot et est validé par le BET Façade.
+ fr :  
+PV Feu toile stores.pdf";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;16/02/2024;;;;02/03/2024;;;;;16/02/2024;;28/02/2024;VSO;;38;48;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;3;FT TISSUS;A;screen-design_m-screen-8503-8505_fr.pdf;;29/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;29/11/2023;;11/12/2023;VAO;;207;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;29/11/2023;-26;09/01/2024;F;;160;;;;29/11/2023;-4;18/12/2023;VAO;;15;25;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;3;FT TISSUS;0;screen-design_m-screen-8503-8505_fr.pdf;;12/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;12/10/2023;-6;01/11/2023;VAO;;164;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;12/10/2023;;;;27/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;FTP;3;FT GT STANDARD 2 VANTAUX;A;FT GT STD IMP EN APPLIQUE 2 VTX.pdf;DI;09/04/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;09/04/2024;;;-2;24/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;FTP;3;FT GT STANDARD 2 VANTAUX;0;FT GT STD IMP EN APPLIQUE 2 VTX.pdf;;28/09/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;28/09/2023;-11;23/10/2023;REF;;86;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/09/2023;-14;27/10/2023;F;;50;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;FTP;4;FT GT STANDARD 1 VANTAIL;A;FT GT STD IMP EN APPLIQUE.pdf;DI;09/04/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;09/04/2024;;;-2;24/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;FTP;4;FT GT STANDARD 1 VANTAIL;0;FT GT STD IMP EN APPLIQUE.pdf;;28/09/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;28/09/2023;-11;23/10/2023;REF;;85;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/09/2023;-14;27/10/2023;F;;49;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PEC;1;NF D121 EI60 FR;B;NF D121-EI60-FR.pdf;DI;29/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces écrites;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;29/03/2024;;;-13;13/04/2024;;;;;;;;;;;;;;29/03/2024;;;-13;13/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PEC;1;NF D121 EI60 FR;A;NF D121-EI60-FR.pdf;;29/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces écrites;;;;;;;;;;;;;;;;;;;;;29/03/2024;;;;13/04/2024;;;;;;;;;;;;;;;;;;;;;;;29/03/2024;;;;13/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PEC;1;NF D121 EI60 FR;0;NF D121-EI60-FR.pdf;;29/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces écrites;;;29/02/2024;;12/03/2024;NC;;272;;;;;;;;;;;;;;;;;;;;;;29/02/2024;;29/02/2024;VOB;;9;;"François VAZQUEZ :
+Voir Avis Euro Coord N° 5";"Julien MATHIEU :
+Etant des portes NF, nous ne fournissons pas le PV mais la notice NF, qui, dans ce cas de figure prévaut sur le PV de référence. Les données fournies dans la notice sont extraites directement du procès-verbal et incluant des informations supplémentaires sur la NF.
+
+Les autocontrôles justifiant notamment des résultats de vitesse de fermeture des fermes-portes seront fournis dans le DOE, à la fin de l’opération.
+ fr :  
+Avis sur doc 5 Portes DAS Métal.pdf, 
+STE-HD-EI-Notice_de_pose.pdf, 
+B2-101-PLANS DU NIVEAU R1 - Réponse à l'avis rèf CO-0051-24-FV.pdf, 
+Notice NF STEHDEI260DFNF.pdf";;;;;;;;;;29/02/2024;;;;15/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PEC;2;PV DAS;A;PV SA 05 01 35 F DAS EI30 EI60 PORTE 1 et 2 vantaux.pdf;DI;29/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces écrites;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;29/03/2024;;;-13;13/04/2024;;;;;;;;;;;;;;29/03/2024;;;-13;13/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PEC;2;PV DAS;0;PV SA 05 01 35 F DAS EI30 EI60 PORTE 1 et 2 vantaux.pdf;;29/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces écrites;;;29/02/2024;;12/03/2024;NC;;273;;;;;;;;;;;;;;;;;;;;;;29/02/2024;;29/02/2024;VOB;;8;;"François VAZQUEZ :
+Voir Avis Euro Coord N° 5";"Julien MATHIEU :
+Etant des portes NF, nous ne fournissons pas le PV mais la notice NF, qui, dans ce cas de figure prévaut sur le PV de référence. Les données fournies dans la notice sont extraites directement du procès-verbal et incluant des informations supplémentaires sur la NF.
+
+Les autocontrôles justifiant notamment des résultats de vitesse de fermeture des fermes-portes seront fournis dans le DOE, à la fin de l’opération.
+ fr :  
+B2-101-PLANS DU NIVEAU R1 - Réponse à l'avis rèf CO-0051-24-FV.pdf, 
+Notice NF STEHDEI260DFNF.pdf, 
+PECM-EXE-DPR-MET-BUR-R+1-PEC-001-NF D121 EI60 FR-0.pdf, 
+STE-HD-EI-Notice_de_pose.pdf, 
+Avis sur doc 5 Portes DAS Métal.pdf";;;;;;;;;;29/02/2024;;;;15/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;GO;TZ;R+1;FTP;0;Peintures intumescentes;A;FT Peintures intumescentes.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 02 - DEMOLITION GROS OEUVRE/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;GO;TZ;R+1;FTP;0;Peintures intumescentes;0;FT Peintures intumescentes.pdf;;11/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 02 - DEMOLITION GROS OEUVRE/Fiche Technique Produit;;;11/10/2023;;23/10/2023;REF;;54;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11/10/2023;-1;27/10/2023;S;;14;;"Meriem ABDELLAOUI :
+Il conviendra de nous communiquer :
+- le plan de repérage des éléments traités ;
+- les PV justificatifs du classement au feu confié aux éléments, la mise en œuvre de la peinture intumescente doit être conforme aux PV.";;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;PLN;4;HABILLAGE VC ZONE CENTRALE;B;EXE-VANTEC-ARC-9-R+1-PLN-004-0- détail habillage VC.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;28/03/2024;;28/03/2024;PI;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;PLN;4;HABILLAGE VC ZONE CENTRALE;A;EXE-VANTEC-ARC-9-R+1-PLN-004-0- détail habillage VC.pdf;;11/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;11/03/2024;;19/03/2024;VOB;;279;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11/03/2024;;;;26/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;PLN;4;HABILLAGE VC ZONE CENTRALE;0;EXE-VANTEC-ARC-9-R+1-PLN-004-0- détail habillage VC.pdf;;06/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;06/03/2024;;;;21/03/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;06/03/2024;;;;21/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;TZ;R+1;PEC;1;TABLEAU DE PORTES V1;D;VANTEC - PEC MARENGO - TABLEAU DE PORTES V1 27092023.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces écrites;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;TZ;R+1;PEC;1;TABLEAU DE PORTES V1;C;VANTEC - PEC MARENGO - TABLEAU DE PORTES V1 27092023.pdf;;25/01/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces écrites;;;25/01/2024;-3;12/02/2024;VOB;;245;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25/01/2024;;;;09/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;TZ;R+1;PEC;1;TABLEAU DE PORTES V1;B;VANTEC - PEC MARENGO - TABLEAU DE PORTES V1 27092023.pdf;;05/01/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces écrites;;;05/01/2024;-3;22/01/2024;VOB;;227;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/01/2024;;;;20/01/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;TZ;R+1;PEC;1;TABLEAU DE PORTES V1;A;VANTEC - PEC MARENGO - TABLEAU DE PORTES V1 27092023.pdf;;02/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces écrites;;;02/11/2023;;14/11/2023;VAO;;185;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;02/11/2023;;;;17/11/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;TZ;R+1;PEC;1;TABLEAU DE PORTES V1;0;VANTEC - PEC MARENGO - TABLEAU DE PORTES V1 27092023.pdf;;28/09/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces écrites;;;28/09/2023;-11;23/10/2023;VOB;;89;;"Roberto SABELLA :
+Manque plan repérage.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/09/2023;;;;13/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;34;membrane_stopvap_90;A;membrane_stopvap_90.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;3;Knauf fiche composant aquapanel;A;FTPROD_AQI13_2015-02-24.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;3;Knauf fiche composant aquapanel;0;FTPROD_AQI13_2015-02-24.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;VOB;;118;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence 
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-108;05/02/2024;F;;190;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PLN;0;Porte DAS;B;DC.22.10.0392 - Cahier de plans pour validation - Ind B.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces graphiques;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PLN;0;Porte DAS;A;DC.22.10.0392 - Cahier de plans pour validation - Ind B.pdf;;20/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces graphiques;;;20/02/2024;;22/02/2024;VOB;;255;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20/02/2024;;;;06/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Vitrage ETINCELANCE;A;dv_est_44_2-16ar-44_2rsonic ETINCELANCE.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Vitrage ETINCELANCE;0;dv_est_44_2-16ar-44_2rsonic ETINCELANCE.pdf;;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;27/09/2023;-12;23/10/2023;NC;;35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/09/2023;-89;09/01/2024;S;;139;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf";27/09/2023;;03/10/2023;REF;;4;9;"Vincent Pottier :
+voir PJ";"Julien MATHIEU :
+ci-joint les documents.
+ fr :  
+Extrait DTU 39 P5.pdf, 
+Performance des vitrages.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf";;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;GEZE instruction 2;A;GEZE_Instructions de montage_785039.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;GEZE instruction 2;0;GEZE_Instructions de montage_785039.pdf;;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;27/09/2023;-12;23/10/2023;NC;;36;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/09/2023;-89;09/01/2024;S;;137;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf";27/09/2023;;03/10/2023;NC;;3;5;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;GEZE Instruction;A;GEZE_Instructions de montage_785024.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;GEZE Instruction;0;GEZE_Instructions de montage_785024.pdf;;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;27/09/2023;-11;23/10/2023;NC;;18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/09/2023;-89;09/01/2024;S;;145;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf";27/09/2023;;03/10/2023;NC;;2;6;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Serrure;A;Serrure 002534.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Serrure;0;Serrure 002534.pdf;;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;27/09/2023;-12;23/10/2023;REF;;32;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/09/2023;-89;09/01/2024;S;;132;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf";27/09/2023;;27/09/2023;PI;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;24;Colle Enduit PF3;A;Colle Enduit PF3.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Cylindre pompier;A;Cylindre pompier 002727.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Cylindre pompier;0;Cylindre pompier 002727.pdf;;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;27/09/2023;-12;23/10/2023;REF;;33;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/09/2023;-89;09/01/2024;S;;134;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf";27/09/2023;;27/09/2023;PI;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Vitrage PERFOGLASS;A;peRFoGlass® - Impression94.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;28/03/2024;;05/04/2024;VSO;;47;57;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;1;Vitrage PERFOGLASS;0;peRFoGlass® - Impression94.pdf;;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;27/09/2023;-12;23/10/2023;VOB;;34;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/09/2023;-89;09/01/2024;S;;140;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf";27/09/2023;;03/10/2023;REF;;5;10;"Vincent Pottier :
+voir PJ";"Julien MATHIEU :
+C'es le même vitrage, les notes de calcul ne viennent juste pas du même fournisseur pour un soucis de logiciel.";;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;VITRAGE ETICELANCE;A;dv_est_44_2-16ar-44_2rsonic ETINCELANCE.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;VITRAGE ETICELANCE;0;dv_est_44_2-16ar-44_2rsonic ETINCELANCE.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;18/09/2023;;03/10/2023;NC;;15;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-98;09/01/2024;S;;144;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;GEZE;A;GEZE_Fiche technique_FR_708200015621.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;GEZE;0;GEZE_Fiche technique_FR_708200015621.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;-1;03/10/2023;VOB;;12;;"Roberto SABELLA :
+Ajouter une frontispice :  préciser localisation - type de usage";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-99;09/01/2024;S;;148;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;VIS MENUISERIE;A;Vis menuiserie.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;VIS MENUISERIE;0;Vis menuiserie.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;-1;03/10/2023;VOB;;11;;"Roberto SABELLA :
+Ajouter une frontispice :  préciser localisation - type de usage";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-99;09/01/2024;S;;138;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;VIS AUTOPERCEUSE;A;Vis autoperceuse.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;VIS AUTOPERCEUSE;0;Vis autoperceuse.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;-1;03/10/2023;VOB;;10;;"Roberto SABELLA :
+Ajouter une frontispice :  préciser localisation - type de usage";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-99;09/01/2024;S;;146;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;COMPRIBAND;A;Compriband .pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;COMPRIBAND;0;Compriband .pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;-1;03/10/2023;NC;;8;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-99;09/01/2024;S;;130;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;CHEVILLE;A;Cheville.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;CHEVILLE;0;Cheville.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;-1;03/10/2023;VOB;;7;;"Roberto SABELLA :
+Ajouter une frontispice :  préciser localisation - type de usage";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-99;09/01/2024;S;;128;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;CHARNIERE;A;Charnière.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;CHARNIERE;0;Charnière.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;-1;03/10/2023;VOB;;6;;"Roberto SABELLA :
+Préciser fonction, usage et localisation sur plan détail - ajouter une frontispice";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-99;09/01/2024;S;;127;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;5;CONTACT;A;CONTAC_1.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;28/03/2024;;05/04/2024;VSO;;45;55;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;5;CONTACT;0;CONTAC_1.pdf;;07/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;07/02/2024;-4;26/02/2024;VAO;;258;;;"Julien MATHIEU :
+le câble ne sera pas apparent, couleur dito MEXT. Non encastré";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;07/02/2024;;;;22/02/2024;;;;;07/02/2024;;14/02/2024;VSO;;28;38;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;37;Montant PRÉGYMÉTAL 48 356;A;Montant PRÉGYMÉTAL 48-356.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;TZ;R+1;FTP;3;FT Châssis MEXT ST HONORE, MARENGO, RIVOLI;A;Fiche Technique châssis MEXT ST HONORE-MARENGO-RIVOLI.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;28/03/2024;;05/04/2024;VSO;;43;53;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;TZ;R+1;FTP;3;FT Châssis MEXT ST HONORE, MARENGO, RIVOLI;0;Fiche Technique châssis MEXT ST HONORE-MARENGO-RIVOLI.pdf;;30/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;30/10/2023;;10/11/2023;VSO;;184;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30/10/2023;-56;09/01/2024;S;;125;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+FT-125702.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+FDS-125702.pdf, 
+Charnière d'imposte.pdf, 
+Poids du vantail.pdf, 
+Extrait DTU 39 P5.pdf, 
+Performance des vitrages.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf";30/10/2023;;03/11/2023;VSO;;9;19;"Vincent Pottier :
+voir pièce jointe";;;
+PECM;EXE;DPR;CLO;SAN;R+1;FTP;39;Montant PRÉGYMÉTAL 70 356;A;Montant PRÉGYMÉTAL 70-356.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;41;Rail PRÉGYMÉTAL 48 305 4;A;Rail PRÉGYMÉTAL 48-305.4.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;TZ;R+1;FTP;4;FT Châssis MEXT ORATOIRE;A;Fiche Technique châssis MEXT Passage de l'Oratoire.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;28/03/2024;;05/04/2024;VSO;;44;54;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;TZ;R+1;FTP;4;FT Châssis MEXT ORATOIRE;0;Fiche Technique châssis MEXT Passage de l'Oratoire.pdf;;30/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;30/10/2023;;10/11/2023;VAO;;183;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30/10/2023;-56;09/01/2024;S;;126;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf";30/10/2023;;03/11/2023;VSO;;10;20;"Vincent Pottier :
+voir pièce jointe";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;ACRYRUB EXT FACADES;A;Fiche Acryrub Exterieur Facades.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;28/03/2024;;05/04/2024;VSO;;46;56;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;ACRYRUB EXT FACADES;0;Fiche Acryrub Exterieur Facades.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;-1;03/10/2023;VOB;;9;;"Roberto SABELLA :
+Ajouter une frontispice :  préciser localisation - type de usage";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-99;09/01/2024;S;;135;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+Extrait DTU 39 P5.pdf, 
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf";;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;Vitrage PERFOGLASS;B;peRFoGlass® - Impression94.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;28/03/2024;;05/04/2024;VSO;;48;58;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;Vitrage PERFOGLASS;0;peRFoGlass® - Impression94.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;18/09/2023;;03/10/2023;NC;;16;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-98;09/01/2024;S;;149;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";"Julien MATHIEU :
+Ci-joint l'ensemble des éléments demandés
+
+Bien à vous,
+ fr :  
+FDS-125702.pdf, 
+FT-125702.pdf, 
+IFT_13_001656_PR01_FR.pdf, 
+PB-Fen-01-05_Rapport d'essai.pdf, 
+Performance des vitrages.pdf, 
+Poids du vantail.pdf, 
+SILICONE 7070 PLUS  LABEL SNJF FACADE 2024.pdf, 
+2023- Cekal du 1 09 2023  au 29 02 2024.pdf, 
+Charnière d'imposte.pdf, 
+Extrait DTU 39 P5.pdf";;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;43;Rail PRÉGYMÉTAL 70 305 4;A;Rail PRÉGYMÉTAL 70-305.4.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;31;gr_32_roule_revetu_kraft;A;gr_32_roule_revetu_kraft.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;GO;TZ;R+1;FTP;1;Flocage;A;Fiche technique du Fibrofeu®.pdf;DI;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 02 - DEMOLITION GROS OEUVRE/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;GO;TZ;R+1;FTP;1;Flocage;0;Fiche technique du Fibrofeu®.pdf;;11/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 02 - DEMOLITION GROS OEUVRE/Fiche Technique Produit;;;11/10/2023;;23/10/2023;REF;;53;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11/10/2023;-1;27/10/2023;S;;13;;"Meriem ABDELLAOUI :
+Il conviendra de nous communiquer :
+ - le plan de repérage des éléments traités ;
+ - les PV justificatifs du classement au feu confié aux éléments, la mise en œuvre du flocage doit être conforme aux PV.";"Julien MATHIEU :
+Ci-joint le PV justificatif sur Flocage, ainsi que le plan de repérage.
+ fr :  
+PV EFR-16-002129 Fibrofeu Structures Acier - Reconduction.pdf, 
+PLAN LOC Flocage.pdf";;;;;;;;;;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;4;FT ALIMENTATION MOTEUR STORES;C;T3.5 Filaire.pdf;DI;22/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;22/03/2024;;;-20;06/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;22/03/2024;;;-20;06/04/2024;;;;;22/03/2024;;22/03/2024;VSO;;42;52;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;4;FT ALIMENTATION MOTEUR STORES;B;T3.5 Filaire.pdf;;13/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;13/12/2023;-2;29/12/2023;VAO;;220;;;;;;;;;;;;;13/12/2023;-1;29/12/2023;VSO;;82;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;13/12/2023;-12;09/01/2024;H;;163;;;;13/12/2023;;21/12/2023;VAO;;18;28;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;4;FT ALIMENTATION MOTEUR STORES;A;T3.5 Filaire.pdf;;29/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;29/11/2023;;07/12/2023;VAO;;198;;;;;;;;;;;;;29/11/2023;;05/12/2023;REF;;80;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;29/11/2023;;;;14/12/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;4;FT ALIMENTATION MOTEUR STORES;0;T3.5 Filaire.pdf;;12/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;12/10/2023;-6;01/11/2023;VOB;;163;;;;;;;;;;;;;12/10/2023;-11;06/11/2023;REF;;39;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;12/10/2023;;;;27/10/2023;;;;;12/10/2023;;;;27/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;PLN;6;PORTE DE COMPARTIMENTAGE DAS;A;EXE-VANTEC-ARC-9-R+1-PLN-006-0-DAS.pdf;DI;22/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;22/03/2024;;;-20;06/04/2024;;;;;;;;;;;;;;;;;;;;;;;22/03/2024;;;-20;06/04/2024;;;;;;;;;;;;;;22/03/2024;;;-20;06/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;PLN;6;PORTE DE COMPARTIMENTAGE DAS;0;EXE-VANTEC-ARC-9-R+1-PLN-006-0-DAS.pdf;;07/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;07/03/2024;;18/03/2024;VOB;;276;;;;;;;;;;;;;;;;;;;;;;07/03/2024;;07/03/2024;VAO;;10;;"François VAZQUEZ :
+Voir Avis Euro Coord n°6";;;;;;;;;;;07/03/2024;;;;22/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;2;PLAN GRILLES DE FACADES;0;EXE-CLIM-CVC-C11-R+1-PL-Grille de?senfumage.pdf;DI;18/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;18/03/2024;;19/03/2024;REF;;281;;;;;;;;;;;;;18/03/2024;;27/03/2024;VAO;;93;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;18/03/2024;;;-24;02/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;DET;101;CARNET DE DETAILS EXE SANITAIRES;C;EX23 11 266 _VAN_MARENGO_CDD_SANITAIRE_0_18 11 2023.pdf;DI;13/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;13/03/2024;;25/03/2024;VOB;;283;;;"Romario BANDULA :
+Ce visa bloquant n'a pas lieu d'être car ce dernier ne concerne que les types d'ouvertures pour les meubles miroir, qui ont été respecter suivant le visa en date de 06/02.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/03/2024;;;-29;28/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;DET;101;CARNET DE DETAILS EXE SANITAIRES;B;EX23 11 266 _VAN_MARENGO_CDD_SANITAIRE_0_18 11 2023.pdf;;21/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;21/02/2024;;22/02/2024;VOB;;256;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;21/02/2024;;;;07/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;DET;101;CARNET DE DETAILS EXE SANITAIRES;A;EX23 11 266 _VAN_MARENGO_CDD_SANITAIRE_0_18 11 2023.pdf;;23/01/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;23/01/2024;;06/02/2024;VOB;;242;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/01/2024;;;;07/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;DET;101;CARNET DE DETAILS EXE SANITAIRES;0;EX23 11 266 _VAN_MARENGO_CDD_SANITAIRE_0_18 11 2023.pdf;;20/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;20/11/2023;;23/11/2023;REF;;194;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;20/11/2023;-35;09/01/2024;F;;159;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;RDC;FTP;25;Rideau d'aire chaud;A;TEDDINGTON Rideau d'air RDC TEDDINGTON + TEDDYPAD DAF.pdf;DI;12/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;12/03/2024;;19/03/2024;REF;;282;;;;;;;;;;;;;12/03/2024;;14/03/2024;VOB;;90;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;12/03/2024;;;-31;27/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;RDC;FTP;25;Rideau d'aire chaud;0;TEDDINGTON Rideau d'air RDC TEDDINGTON + TEDDYPAD DAF.pdf;;01/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;01/02/2024;-1;16/02/2024;REF;;254;;"Roberto SABELLA :
+Article variante marché - profondeur trop importante  - profondeur prévue à projet 27 cm.
+demander avis ATEC.";;;;;;;;;;;01/02/2024;;;;16/02/2024;;;;;;;;;;;;;;;;;;;;;;;01/02/2024;-17;03/03/2024;F;;200;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;26;FT Grilles de soufflage FGT;A;Fiche_Produit_GRL-GSL.pdf;DI;11/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;11/03/2024;;19/03/2024;VSO;;280;;;;;;;;;;;;;11/03/2024;;19/03/2024;VSO;;92;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;11/03/2024;;;-31;26/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;26;FT Grilles de soufflage FGT;0;Fiche_Produit_GRL-GSL.pdf;;01/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;01/03/2024;;;;16/03/2024;;;;;;;;;;;;;;01/03/2024;;10/03/2024;VSO;;89;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;01/03/2024;;;;16/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;RDC;FTP;6;Ventouse;0;549312-FT1.pdf;DI;11/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;11/03/2024;;18/03/2024;NC;;277;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11/03/2024;;;-32;26/03/2024;;;;;11/03/2024;;12/03/2024;VSO;;41;51;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;RDC;PLN;40;PORTE P1;A;PORTE P1.pdf;DI;11/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;11/03/2024;;19/03/2024;VOB;;278;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11/03/2024;;;-32;26/03/2024;;;;;11/03/2024;;12/03/2024;REF;;40;50;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;RDC;PLN;40;PORTE P1;0;PORTE P1.pdf;;30/01/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;30/01/2024;;01/02/2024;REF;;238;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30/01/2024;;;;14/02/2024;;;;;30/01/2024;;;;14/02/2024;;;;;30/01/2024;;30/01/2024;REF;;27;37;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;CFO;TZ;RDC;FTP;10;FTP CASIERS CONNECTES;0;FICHE TECHNIQUE CASIERS CONNECTES.pdf;DI;29/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;29/02/2024;-3;18/03/2024;VOB;;275;;;;;;;;;;;;;29/02/2024;;14/03/2024;VOB;;91;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;29/02/2024;;;-42;15/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PEC;3;PV FEU;0;12-A-077 (EI60 - EW60 - E60).pdf;DI;29/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces écrites;;;29/02/2024;;12/03/2024;NC;;274;;;;;;;;;;;;;;;;;;;;;;29/02/2024;;29/02/2024;NC;;7;;;;;;;;;;;;;29/02/2024;;;-42;15/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;TZ;R+1;PLN;3;PLAN FGT;A;EXE-VANTEC-ARC-09-R+1-PLN-003-0-PLAN FGT.pdf;DI;27/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;27/02/2024;;08/03/2024;VAO;;271;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/02/2024;;;-45;13/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;TZ;R+1;PLN;3;PLAN FGT;0;EXE-VANTEC-ARC-09-R+1-PLN-003-0-PLAN FGT.pdf;;30/01/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Pièces graphiques;;;30/01/2024;;08/02/2024;REF;;244;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;30/01/2024;;;;14/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;14;FT PATERE;0;DAF 014 PATERE.pdf;DI;27/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;27/02/2024;;08/03/2024;VSO;;270;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;27/02/2024;;;-45;13/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;13;SERRURE D455;0;DAF 006 SERRURE D455.pdf;DI;21/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;21/02/2024;-1;07/03/2024;VSO;;269;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;21/02/2024;;;-51;07/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;12;SERRURE D452;0;DAF 008 SERRURE D452.pdf;DI;21/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;21/02/2024;-1;07/03/2024;VSO;;268;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;21/02/2024;;;-51;07/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;11;SERRURE D453;0;DAF 007 SERRURE D453.pdf;DI;21/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;21/02/2024;-1;07/03/2024;VSO;;267;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;21/02/2024;;;-51;07/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;10;BUTOIR;0;DAF 003 BUTOIR MARENGO IND A.pdf;DI;21/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;21/02/2024;-1;07/03/2024;VAO;;266;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;21/02/2024;;;-51;07/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;9;BEQUILLE;0;DAF 001 BEQUILLE MARENGO IND A.pdf;DI;21/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;21/02/2024;;07/03/2024;VSO;;265;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;21/02/2024;;;-51;07/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;OCC;BUR;R+1;PEC;1;PV FEU TOILE STORES;0;PV Feu toile stores.pdf;DI;16/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 06 - Occultation/Pièces écrites;;;16/02/2024;;29/02/2024;NC;;263;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;16/02/2024;;;-55;02/03/2024;;;;;16/02/2024;;28/02/2024;VSO;;39;49;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;20;PLAQUE SIGMA 80;0;DAF plaque geberit sigma80 verre reflechissant.pdf;DI;16/02/2024;;Romario BANDULA;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;16/02/2024;;29/02/2024;VAO;;262;;;;;;;;;;;;;16/02/2024;;28/02/2024;VSO;;88;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;16/02/2024;;;-55;02/03/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;SAN;R+1;FTP;9;Bandeau LED Type L12;0;Type L12 - Clareo lighting sanitaires.pdf;DI;14/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;14/02/2024;;27/02/2024;NC;;261;;;;;;;;;;;;;14/02/2024;;26/02/2024;VOB;;87;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;14/02/2024;;;-57;29/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;BUR;R+1;NDC;1;NDC ECLAIRAGE;0;Projet MARENGO EXE - Ndc éclairage R+1.pdf;DI;12/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 12 - CFO CFA/Pièces écrites;;;12/02/2024;;27/02/2024;REF;;260;;;;;;;;;;;;;12/02/2024;;26/02/2024;VOB;;86;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;12/02/2024;;;-60;27/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;BUR;R+1;FTP;8;FT BARRE ANTI PANIQUE;0;PEC MARENGO - DAF barre antipanique.pdf;DI;06/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;06/02/2024;-5;26/02/2024;VAO;;257;;;;;;;;;;;;;;;;;;;;;;06/02/2024;-8;29/02/2024;NC;;5;;;;;;;;;;;;;06/02/2024;;;-65;21/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;TZ;R+1;PLN;2;PLAN FAUX PLAFONDS SUSPENDU;A;KRT Plan plafonds suspendus R01 indice A.pdf;;17/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Pièces graphiques;;;17/10/2023;;31/10/2023;VAO;;153;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17/10/2023;;;;01/11/2023;;;;;17/10/2023;;29/10/2023;F;;76;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;RDC;PLN;30;MEXT DELICE DE MARENGO RDC;A;Rue Marengo - Ensemble menuiserie RDC commerce _ R+1  - 24.pdf;;23/01/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;23/01/2024;;;;07/02/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/01/2024;;;;07/02/2024;;;;;23/01/2024;;;;07/02/2024;;;;;23/01/2024;;24/01/2024;REF;;25;35;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;1;Plan de DES R+1;D;EXE-CLIM-CVC-C11-R+1-PL-11-Plan de DES R+1-ind 2.pdf;DI;22/01/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;22/01/2024;;01/02/2024;VOB;;237;;;;;;;;;;;;;22/01/2024;;01/02/2024;VOB;;85;;"Brice SIRJEAN :
+cf PJ";;22/01/2024;-1;06/02/2024;VAO;;2;;"François VAZQUEZ :
+Voir Avis sur documents N°1 Euro Coord";;;;;;;;;;;22/01/2024;;;-80;06/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;1;Plan de DES R+1;C;EXE-CLIM-CVC-C11-R+1-PL-11-Plan de DES R+1-ind 2.pdf;;23/11/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;23/11/2023;;07/12/2023;VOB;;200;;;;;;;;;;;;;23/11/2023;;27/11/2023;VOB;;64;;"Brice SIRJEAN :
+cf PJ";"Julien MATHIEU :
+Les 6000m3/h sont respecté, le plan a justement était repris en ce sens. Je ne comprend pas l'observation.";;;;;;;;;;;;;;;;;;;23/11/2023;;23/11/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;1;Plan de DES R+1;B;EXE-CLIM-CVC-C11-R+1-PL-11-Plan de DES R+1-ind 2.pdf;;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;23/10/2023;-1;07/11/2023;VAO;;178;;;;;;;;;;;;;23/10/2023;;30/10/2023;VOB;;30;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;;;07/11/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;1;Plan de DES R+1;A;EXE-CLIM-CVC-C11-R+1-PL-11-Plan de DES R+1-ind 2.pdf;;29/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;29/09/2023;;;;14/10/2023;;;;;;;;;;;;;;29/09/2023;;04/10/2023;REF;;11;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;29/09/2023;;;;14/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;0;PLAN CVC R+1;D;CVC-Plan R+1.pdf;DI;22/01/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;"#1 François VAZQUEZ :
+Voir Avis sur documents N°1 Euro Coord";Aucune réponse au commentaire #1;22/01/2024;;01/02/2024;VOB;;236;;;;;;;;;;;;;22/01/2024;;01/02/2024;VAO;;84;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;22/01/2024;;;-80;06/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;0;PLAN CVC R+1;C;CVC-Plan R+1.pdf;;23/11/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;23/11/2023;;07/12/2023;VOB;;199;;;;;;;;;;;;;23/11/2023;;27/11/2023;VAO;;66;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/11/2023;;23/11/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;0;PLAN CVC R+1;B;CVC-Plan R+1.pdf;;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;23/10/2023;;03/11/2023;VAO;;174;;;;;;;;;;;;;23/10/2023;;30/10/2023;VAO;;32;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;;;07/11/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;0;PLAN CVC R+1;A;CVC-Plan R+1.pdf;;29/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;29/09/2023;;;;14/10/2023;;;;;;;;;;;;;;29/09/2023;;04/10/2023;REF;;13;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;29/09/2023;;;;14/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;0;PLAN CVC R+1;0;CVC-Plan R+1.dwg;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;18/09/2023;;;;03/10/2023;;;;;;;;;;;;;;18/09/2023;;26/09/2023;REF;;10;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;18/09/2023;;;;03/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PINT;TZ;R+1;FTP;4;Primaire d'accroche;0;Primaire d'accroche.pdf;DI;17/01/2024;;Quentin AUBERT-TRUCHEFAUD;/01 - DOC EXE/Lot 17 - Peinture/Fiche Technique Produit;;;17/01/2024;;29/01/2024;VSO;;235;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17/01/2024;-4;05/02/2024;F;;179;;;;;;;;;;;;;;
+PECM;EXE;DPR;PINT;TZ;R+1;FTP;3;Peinture velours;0;Peinture velours.pdf;DI;17/01/2024;;Quentin AUBERT-TRUCHEFAUD;/01 - DOC EXE/Lot 17 - Peinture/Fiche Technique Produit;;;17/01/2024;;29/01/2024;VSO;;234;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17/01/2024;-4;05/02/2024;F;;180;;;;;;;;;;;;;;
+PECM;EXE;DPR;PINT;TZ;R+1;FTP;2;Enduit rebouchage;0;Enduit rebouchage PRESTONETT.pdf;DI;17/01/2024;;Quentin AUBERT-TRUCHEFAUD;/01 - DOC EXE/Lot 17 - Peinture/Fiche Technique Produit;;;17/01/2024;;29/01/2024;VSO;;233;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17/01/2024;-4;05/02/2024;F;;181;;;;;;;;;;;;;;
+PECM;EXE;DPR;PINT;TZ;R+1;FTP;1;Enduit lissage;0;Enduit lissage PRESTONETT.pdf;DI;17/01/2024;;Quentin AUBERT-TRUCHEFAUD;/01 - DOC EXE/Lot 17 - Peinture/Fiche Technique Produit;;;17/01/2024;;26/01/2024;VSO;;232;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;17/01/2024;-4;05/02/2024;F;;182;;;;;;;;;;;;;;
+PECM;EXE;DPR;SP;TZ;R+1;FTP;0;QUADRO MONTANA;0;Quadro Montana FT 0117A.pdf;DI;16/01/2024;;Quentin AUBERT-TRUCHEFAUD;/01 - DOC EXE/Lot 15 - Sols souples/Fiche Technique Produit;;;16/01/2024;;26/01/2024;REF;;229;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;16/01/2024;-5;05/02/2024;F;;183;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;SAN;R+1;FTP;2;ARKOSLIGHT;0;Type L02 sanitaires - ARKOS A2121212W65 - variante.pdf;DI;16/01/2024;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;16/01/2024;;26/01/2024;REF;;231;;;;;;;;;;;;;16/01/2024;;26/01/2024;REF;;83;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;16/01/2024;;;-86;31/01/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;TZ;R+1;PLN;9;MEXT BOIS;A;EXE-VANTEC-ARC-5-R+1-PL-009-0-CHASSIS BOIS.pdf;DI;16/01/2024;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;16/01/2024;;26/01/2024;VOB;;230;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;16/01/2024;;;-87;31/01/2024;;;;;16/01/2024;;24/01/2024;VAO;;26;36;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;TZ;R+1;PLN;9;MEXT BOIS;0;EXE-VANTEC-ARC-5-R+1-PL-009-0-CHASSIS BOIS.pdf;;11/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;11/12/2023;;22/12/2023;VOB;;213;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;11/12/2023;;;;26/12/2023;;;;;11/12/2023;;21/12/2023;REF;;24;34;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;5;FT FACADE MENUISEE SANITAIRES;A;VANTEC MARENGO - FT FACADE SANITAIRE.pdf;DI;10/01/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;10/01/2024;;22/01/2024;VAO;;228;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;10/01/2024;-12;05/02/2024;H;;178;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;5;FT FACADE MENUISEE SANITAIRES;0;VANTEC MARENGO - FT FACADE SANITAIRE.pdf;;04/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;04/12/2023;;07/12/2023;VOB;;205;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/12/2023;;;;19/12/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFA;BUR;R+1;PLN;1;Implantation Détection incendie;0;EXE-22002-PL-R+1-C12-SSI-01.pdf;DI;18/12/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 13 - SSI/Pièces graphiques;;;18/12/2023;-10;11/01/2024;VAO;;226;;;;;;;;;;;;;18/12/2023;;18/12/2023;PI;;;;;;18/12/2023;-36;06/02/2024;VAO;;4;;"François VAZQUEZ :
+Voir Avis sur documents N° 4 Euro Coord";;;;;;;;;;;18/12/2023;;18/12/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFA;BUR;R+1;PLN;0;Implantation asservissements incendie;0;EXE-22002-PL-R+1-C12-SSI-02.pdf;DI;18/12/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 13 - SSI/Pièces graphiques;;;18/12/2023;-10;11/01/2024;VAO;;225;;;;;;;;;;;;;18/12/2023;;18/12/2023;PI;;;;;;18/12/2023;-36;06/02/2024;VAO;;3;;"François VAZQUEZ :
+Voir Avis sur documents N° 4 Euro Coord";;;;;;;;;;;18/12/2023;;18/12/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;TZ;R+1;CPE;3;CARNET DE COUPES FAUX PLAFOND;A;CARNET DE COUPES - FAUX PLAFOND IND 0.pdf;DI;15/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Pièces graphiques;;;15/12/2023;-6;04/01/2024;VAO;;222;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/12/2023;-10;09/01/2024;F;;157;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;TZ;R+1;CPE;3;CARNET DE COUPES FAUX PLAFOND;0;CARNET DE COUPES - FAUX PLAFOND IND 0.pdf;;31/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Pièces graphiques;;;31/10/2023;-2;16/11/2023;VAO;;190;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;31/10/2023;;;;15/11/2023;;;;;31/10/2023;;;;15/11/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;3;BATTISCOPA;A;Battiscopa 40 EN.pdf;DI;04/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;04/12/2023;-3;22/12/2023;REF;;212;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/12/2023;-21;09/01/2024;F;;156;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;0;BATTISCOPA;0;Battiscopa 40 EN.pdf;;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;VOB;;98;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;-27;27/10/2023;F;;8;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;1;CARRELAGE;B;produit-3912399-sans-prix.pdf;DI;04/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;04/12/2023;-3;22/12/2023;VSO;;211;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/12/2023;-21;09/01/2024;F;;155;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;0;CARRELAGE;A;produit-3912399-sans-prix.pdf;;02/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;02/11/2023;;07/11/2023;REF;;179;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;0;CARRELAGE;0;produit-3912399-sans-prix.pdf;;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;REF;;97;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;-27;27/10/2023;F;;9;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;SAN;R+1;FTP;24;GEOSTAFF;0;Geostaff_fiche_technique_2023_P_GEOFLAMF-LIGHT-01.09.2023-FR.pdf;DI;28/11/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;28/11/2023;;07/12/2023;NC;;203;;;;;;;;;;;;;28/11/2023;;28/11/2023;PI;;;;;;28/11/2023;-7;20/12/2023;NC;;1;;;;;;;;;;;;;28/11/2023;-27;09/01/2024;F;;101;;"Meriem ABDELLAOUI :
+Les dispositions de mise en œuvre indiquées par le PV doivent être strictement respectées.
+Les autocontrôles associés doivent nous être transmis.";;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;23;Volet de désenfumage;0;Aldes-OPTONE-Grille-1.pdf;DI;28/11/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;28/11/2023;;07/12/2023;NC;;202;;;;;;;;;;;;;28/11/2023;;06/12/2023;VOB;;81;;"Brice SIRJEAN :
+cf PJ";;28/11/2023;-78;29/02/2024;VAO;;6;;"François VAZQUEZ :
+Voir Avis Euro Coord n°3";;;;;;;;;;;28/11/2023;-27;09/01/2024;S;;124;;"Meriem ABDELLAOUI :
+Il conviendra de nous communiquer le PV associé.";"Julien MATHIEU :
+Bonjour, 
+
+Ci-joint le PV
+ fr :  
+optone-grille-certificat-de-constance-de-performance-ce-cpr-pv-feu.pdf";;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;3;désenfumage;C;EXE-CLIM-CVC-C11-TN-NDC-03-0-NdC désenfumage-ind 1.pdf;DI;23/11/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;"#1 François VAZQUEZ :
+Vois Avis sur documents N°1 Euro Coord";Aucune réponse au commentaire #1;23/11/2023;;07/12/2023;NC;;201;;;;;;;;;;;;;23/11/2023;;27/11/2023;VSO;;65;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/11/2023;-32;09/01/2024;S;;98;;"Meriem ABDELLAOUI :
+Voir FED-5 du 12.12.2023.
+
+Les amenées d'air mécaniques doivent avoir un débit de l'ordre de 0,6 fois le débit extrait. Disposition non respectée pour ""CIRCULATION ENCLOISONNEE 2UP - CANTON 2"". 
+La vitesse de passage de l'air aux amenées d'air doit toujours être inférieure à 5 m/s. Disposition non respectée pour ""CIRCULATION ENCLOISONNEE 2UP - CANTON 2"". 
+Les ventilateurs de soufflage et d'extraction doivent être dimensionnés pour un débit égal au débit nominal augmenté du débit de fuite tolérable (de l'ordre de 20 %). A confirmer. 
+Les sections des conduits doivent être confirmées. La réduction de la section induite par le passage du profilé métallique au droit de la gaine S 2-3 ne semble pas être prise en compte. Il conviendra de nous transmettre un détail d'exécution au niveau de cette gaine.";;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;3;désenfumage;B;EXE-CLIM-CVC-C11-TN-NDC-03-0-NdC désenfumage-ind 1.pdf;;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;23/10/2023;;29/10/2023;NC;;147;;;;;;;;;;;;;23/10/2023;;30/10/2023;VOB;;31;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;;;07/11/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;3;désenfumage;A;EXE-CLIM-CVC-C11-TN-NDC-03-0-NdC désenfumage-ind 1.pdf;;29/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;29/09/2023;;;;14/10/2023;;;;;;;;;;;;;;29/09/2023;;04/10/2023;REF;;12;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;29/09/2023;;;;14/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;RDC;PLN;4;Plan de CVC RDC;0;EXE-CLIM-CVC-C01-R+1-PL-01-Plan de CVC RDC-ind 0.pdf;DI;23/11/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;"#1 François VAZQUEZ :
+Vois Avis sur documents N°1 Euro Coord";Aucune réponse au commentaire #1;23/11/2023;;07/12/2023;VOB;;204;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/11/2023;-32;09/01/2024;F;;100;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;22;CARRIER 42GW309D;A;CARRIER 42GW309D.pdf;DI;17/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;17/11/2023;;27/11/2023;VAO;;195;;;;;;;;;;;;;17/11/2023;;27/11/2023;VSO;;72;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;17/11/2023;-38;09/01/2024;F;;123;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;22;CARRIER 42GW309D;0;CARRIER 42GW309D.pdf;;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;VAO;;130;;;;;;;;;;;;;23/10/2023;-7;13/11/2023;REF;;52;;"Brice SIRJEAN :
+cf PJ";"Kevin GUENOT :
+Bonjour, 
+
+Apres vérification ce jour, dans le CCTP aucune référence n'est préconisé pour le traitement de la zone cercueil, au vue des plan marché nous avons déterminé qu'il s'agit de cassette 600x600. Nous avons proposé la référence Carrier 42GW309c qui fait parti de la gamme hydrofan.";;;;;;;;;;;;;;;;;;;23/10/2023;;;;07/11/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;19;GROHE MITIGEUR INFRA 36376000;0;GROHE MITIGEUR INFRA 36376000.pdf;DI;15/11/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;15/11/2023;;28/11/2023;VAO;;197;;;;;;;;;;;;;15/11/2023;;21/11/2023;VSO;;63;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;18;DURAVIT LAVE MAIN 0703500000;0;DURAVIT LAVE MAIN 0703500000.pdf;DI;15/11/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;15/11/2023;;28/11/2023;VSO;;196;;;;;;;;;;;;;15/11/2023;;21/11/2023;VSO;;62;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;17;DURAVIT CUVETTE SUSPENDU 62;0;DURAVIT Cuvette suspendu 62cm.pdf;DI;15/11/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;15/11/2023;;15/11/2023;VSO;;187;;;;;;;;;;;;;15/11/2023;;21/11/2023;VSO;;61;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;16;DURAVIT CUVETTE SUSPENDU 54;0;DURAVIT Cuvette suspendu 54cm.pdf;DI;15/11/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;15/11/2023;;15/11/2023;VSO;;188;;;;;;;;;;;;;15/11/2023;;21/11/2023;VSO;;60;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;15;DURAVIT ABATTANT AMORTISSEUR;0;DURAVIT ABATTANT amortiseur.pdf;DI;15/11/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;15/11/2023;;15/11/2023;VSO;;189;;;;;;;;;;;;;15/11/2023;;21/11/2023;VSO;;59;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;14;AUBADE BÂTI SUPPORT CONEL 2;A;AUBADE BÂTI-SUPPORT CONEL 2.pdf;DI;08/11/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;08/11/2023;;15/11/2023;VSO;;186;;;;;;;;;;;;;08/11/2023;-5;27/11/2023;REF;;78;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;08/11/2023;-47;09/01/2024;F;;158;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;14;AUBADE BÂTI SUPPORT CONEL 2;0;AUBADE BÂTI-SUPPORT CONEL 2.pdf;;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;23/10/2023;;31/10/2023;REF;;160;;;;;;;;;;;;;23/10/2023;;;;07/11/2023;;;;;;;;;;;;;;;;;;;;;;;23/10/2023;;27/10/2023;H;;27;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;TZ;R+1;PLN;2;PLAN EQUIPEMENTS CFO PH R+1;A;PLAN EQUIPEMENTS CFO PH R+1 MARENGO-A.pdf;DI;08/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Pièces graphiques;;;08/11/2023;;20/11/2023;VAO;;191;;;;;;;;;;;;;08/11/2023;;17/11/2023;VAO;;58;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;08/11/2023;-75;05/02/2024;F;;171;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;TZ;R+1;PLN;1;PLAN EQUIPEMENTS CFO PB R+1;A;PLAN EQUIPEMENTS CFO PB R+1 MARENGO-A.pdf;DI;08/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Pièces graphiques;;;08/11/2023;;20/11/2023;VAO;;192;;;;;;;;;;;;;08/11/2023;;17/11/2023;VAO;;57;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;08/11/2023;-75;05/02/2024;F;;172;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;TZ;R+1;SCH;20;TD1;A;TD1.1.pdf;DI;08/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Pièces graphiques;;;08/11/2023;;08/11/2023;PI;;;;;;;;;;;;;;;08/11/2023;;17/11/2023;VAO;;55;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;08/11/2023;-75;05/02/2024;F;;173;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;TZ;R+1;SCH;20;TD1;0;TD1.1.pdf;;05/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Pièces graphiques;;;05/10/2023;-3;23/10/2023;NC;;25;;;;;;;;;;;;;05/10/2023;;12/10/2023;VOB;;24;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;05/10/2023;-10;29/10/2023;F;;64;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;TZ;R+1;SCH;20;TD2;A;TD1.2.pdf;DI;08/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Pièces graphiques;;;08/11/2023;;08/11/2023;PI;;;;;;;;;;;;;;;08/11/2023;;17/11/2023;VAO;;56;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;08/11/2023;-75;05/02/2024;F;;174;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;TZ;R+1;SCH;20;TD2;0;TD1.2.pdf;;05/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Pièces graphiques;;;05/10/2023;-3;23/10/2023;NC;;24;;;;;;;;;;;;;05/10/2023;;12/10/2023;VOB;;25;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;05/10/2023;-10;29/10/2023;F;;63;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;2;FAÏENCE;A;produit-4533634-sans-prix.pdf;DI;02/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;02/11/2023;;07/11/2023;VAO;;180;;;"Romario BANDULA :
+La fiche produit peut être validé car elle est conforme au produit prescrit dans le CCTP, qui reprend le même modèle que les étages précédent. Même marque, bonnes dimensions, teinte blanc brillant.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;0;FAÏENCE;0;produit-4533634-sans-prix.pdf;;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;REF;;96;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;-27;27/10/2023;F;;10;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFO;BUR;R+1;FTP;8;TD PrismaSet G Active;0;FT Tableaux électriques.pdf;DI;25/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;25/10/2023;;02/11/2023;VSO;;173;;;;;;;;;;;;;25/10/2023;;06/11/2023;VAO;;37;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;25/10/2023;;27/10/2023;F;;37;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;RDC;PLN;2;Plan de plomberie RDC;0;EXE-CLIM-PLO-C10-TN-PL-00-Plan de plomberie RDC-ind 1.pdf;DI;24/10/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Pièces graphiques;;;24/10/2023;-1;09/11/2023;VAO;;182;;;;;;;;;;;;;24/10/2023;-6;13/11/2023;VAO;;51;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;24/10/2023;;27/10/2023;H;;20;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;PLN;1;Plan de plomberie R+1;0;EXE-CLIM-PLO-C10-TN-PL-00-Plan de plomberie R+1-ind 1.pdf;DI;24/10/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Pièces graphiques;;;24/10/2023;-1;09/11/2023;VAO;;181;;;;;;;;;;;;;24/10/2023;-6;13/11/2023;VAO;;54;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;24/10/2023;;27/10/2023;H;;21;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;21;ECY Comm;0;ECY Comm_SP.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;131;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;102;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;20;EC SMART AIR;0;EC-Smart-Air.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;VSO;;132;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;122;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;19;Télécommande Sans Fils BLE;0;Télécommande Sans Fils BLE - Allure Uniwave.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;133;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;121;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;18;Regulateur VC ECY PTU;0;Regulateur VC ECY PTU.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;"#1 Kevin GUENOT :
+Bonjour,
+
+voici la référence sélectionné ECY-PTU-207";Aucune réponse au commentaire #1;23/10/2023;;29/10/2023;NC;;134;;;;;;;;;;;;;23/10/2023;-6;13/11/2023;VAO;;46;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;120;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;17;Multi Capteur BLE;0;Multi-Capteur BLE.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;VSO;;135;;;;;;;;;;;;;23/10/2023;-6;13/11/2023;VSO;;47;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;119;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;16;Interface Murale;0;Interface Murale - Allure Unitouch.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;VSO;;136;;;;;;;;;;;;;23/10/2023;-6;13/11/2023;VAO;;48;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;118;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;15;Extension de gestion d'éclairages DALI;0;Extension de gestion d'éclairages DALI.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;137;;;;;;;;;;;;;23/10/2023;-6;13/11/2023;VSO;;49;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;117;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;14;Extension de gestion de stores;0;Extension de gestion de stores.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;"#1 Kevin GUENOT :
+Vu avec Fiche technique Syb-store ce jour , les stores sont alimenté en 230V, la ref sera donc  ECx-Blind-4-WD ( sortie 230v + connecteur wieland)";Aucune réponse au commentaire #1;23/10/2023;;29/10/2023;NC;;138;;;;;;;;;;;;;23/10/2023;-6;13/11/2023;VAO;;50;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;116;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;FTP;13;Automate Server Modulaire;0;ECY-S1000 - Automate Server Modulaire.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;139;;;;;;;;;;;;;23/10/2023;-6;13/11/2023;VAO;;45;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;115;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;18;PORCHER Mitigeur mural OKYRIS 2 CLINIC;0;PORCHER - Mitigeur mural OKYRIS 2 CLINIC.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;23/10/2023;;31/10/2023;REF;;157;;;"Kevin GUENOT :
+bonjour,
+
+référence préconisé inconnu (SA-10 REF DAUPHINE 2C H4844AA PIEL FIRSTALBO)
+
+avez vous d'autre information a me transmettre ?";;;;;;;;;;23/10/2023;-21;27/11/2023;VSO;;74;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;27/10/2023;H;;23;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;16;GEBERIT Déversoir mural Publica;0;GEBERIT Déversoir mural Publica.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;23/10/2023;;31/10/2023;VSO;;158;;;;;;;;;;;;;23/10/2023;-21;27/11/2023;VSO;;76;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;27/10/2023;H;;25;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;NDC;5;01 CARRIER Séléction CVC;0;01 CARRIER Séléction CVC.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;23/10/2023;;29/10/2023;NC;;146;;;;;;;;;;;;;23/10/2023;;30/10/2023;VSO;;29;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;29/10/2023;H;;74;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;12;CARRIER 42NH;0;CARRIER 42NH.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;VAO;;140;;;;;;;;;;;;;23/10/2023;;30/10/2023;VSO;;28;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;F;;114;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;11;CARRIER 42ND539C NCV;0;CARRIER 42ND539C NCV.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;VAO;;142;;;;;;;;;;;;;23/10/2023;;30/10/2023;VSO;;27;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;F;;113;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;10;DYNAFLU Tube multicouches;0;DYNAFLU Tube multicouches.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;141;;;;;;;;;;;;;23/10/2023;;30/10/2023;VSO;;36;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;F;;112;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;9;DYNAFLU Raccord multicouche a sertir;0;DYNAFLU Raccord multicouche a sertir.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;143;;;;;;;;;;;;;23/10/2023;;30/10/2023;VSO;;35;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;111;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;8;OVENTROP Cocon QTZ;0;OVENTROP Cocon QTZ.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;144;;;;;;;;;;;;;23/10/2023;;30/10/2023;VSO;;34;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;H;;110;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;7;KAYMANN ISOLANT SOUPLE;0;KAYMANN ISOLANT SOUPLE.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;23/10/2023;;29/10/2023;NC;;145;;;;;;;;;;;;;23/10/2023;;30/10/2023;VOB;;33;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;-63;09/01/2024;F;;109;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;2;Bilan thermique;B;EXE-CLIM-CVC-C11-TN-NDC-02-0-Bilan thermique.pdf;DI;23/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;23/10/2023;;29/10/2023;NC;;148;;;;;;;;;;;;;23/10/2023;;30/10/2023;VSO;;26;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;23/10/2023;;29/10/2023;H;;73;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;2;Bilan thermique;A;EXE-CLIM-CVC-C11-TN-NDC-02-0-Bilan thermique.pdf;;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;18/09/2023;;;;03/10/2023;;;;;;;;;;;;;;18/09/2023;;26/09/2023;VSO;;6;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;18/09/2023;;;;03/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;2;Bilan thermique;0;EXE-CLIM-CVC-C11-TN-NDC-02-0-Bilan thermique.pdf;;11/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;11/09/2023;;;;26/09/2023;;;;;;;;;;;;;;11/09/2023;;12/09/2023;VOB;;3;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;11/09/2023;;;;26/09/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFA;TZ;R+1;FTP;7;BOCCI Suspension serie 14 1 D116;0;Type L09 - BOCCI Suspension serie 14.1 D116.pdf;DI;20/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;"#1 Roberto SABELLA :
+Couleur: clair;
+LED dimmable;
+Couleur auvent à choisir - 
+échantillon à présenter..";Aucune réponse au commentaire #1;20/10/2023;;02/11/2023;VAO;;172;;;;;;;;;;;;;20/10/2023;-3;06/11/2023;VAO;;38;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;20/10/2023;;27/10/2023;F;;36;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFA;TZ;R+1;FTP;6;Clareo  StripLED 14,4W;0;Type L08 - Clareo - StripLED 14,4W.pdf;DI;20/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;"#1 Roberto SABELLA :
+sur réserve Bureau de contrôle";Aucune réponse au commentaire #1;20/10/2023;;02/11/2023;VSO;;170;;;;;;;;;;;;;20/10/2023;-3;06/11/2023;REF;;44;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;20/10/2023;;27/10/2023;S;;15;;"Meriem ABDELLAOUI :
+Fournir le PV de conformité. Il doit faite référence à la norme NF EN 60 598.";"Julien MATHIEU :
+ci-joint le PV
+ fr :  
+200706 PV Conformité StripLED.pdf";;;;;;;;;;;
+PECM;EXE;DPR;CFA;TZ;R+1;FTP;5;Lledo  3652 QS4;0;Type L06 - Lledo - 3652 QS4.pdf;DI;20/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;20/10/2023;;02/11/2023;VSO;;169;;;;;;;;;;;;;20/10/2023;-3;06/11/2023;VSO;;43;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;20/10/2023;;27/10/2023;F;;19;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFA;TZ;R+1;FTP;4;Lledo  3652_QM4;0;Type L05 - Lledo - 3652_QM4.pdf;DI;20/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;20/10/2023;;02/11/2023;VSO;;168;;;;;;;;;;;;;20/10/2023;-3;06/11/2023;VSO;;42;;"Brice SIRJEAN :
+cf PJ";"Brice SIRJEAN :
+VSO
+Annule et remplace VISA N° 0005
+ fr :  
+ATEC - VISA N° 0006 - LOT CFO CFA - 06 11 23 - 22002.pdf";;;;;;;;;;;;;;;;;;;20/10/2023;;27/10/2023;F;;18;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFA;BUR;R+1;FTP;3;Lledo VARIANT 1200x150 + 900x150;0;Type L04 - Lledo - VARIANT 1200x150 + 900x150.pdf;DI;20/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;20/10/2023;;02/11/2023;VSO;;167;;;;;;;;;;;;;20/10/2023;-3;06/11/2023;REF;;41;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;20/10/2023;;27/10/2023;F;;17;;;;;;;;;;;;;;
+PECM;EXE;DPR;CFA;SAN;R+1;FTP;1;Clareo  StripLED 14,4W;0;Type L03 - Clareo - StripLED 14,4W.pdf;DI;20/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 12 - CFO CFA/Fiche Technique Produit;;;20/10/2023;;02/11/2023;VSO;;171;;;;;;;;;;;;;20/10/2023;-3;06/11/2023;VOB;;40;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;20/10/2023;;27/10/2023;S;;16;;"Meriem ABDELLAOUI :
+Fournir le PV de conformité. Il doit faite référence à la norme NF EN 60 598.";"Julien MATHIEU :
+ci-joint le PV
+ fr :  
+200706 PV Conformité StripLED.pdf";;;;;;;;;;;
+PECM;EXE;DPR;GO;BUR;R+1;PLN;2;REPRISES STRUCTURELLES PHR+1;0;DC_EXE_GOE_TZ_COF_002_0_Marengo_Coffrage PH1.pdf;DI;19/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 02 - DEMOLITION GROS OEUVRE/Pièces graphiques;;;19/10/2023;-1;03/11/2023;VOB;;176;;;;;-95;;VAO;;2;01;"Pierre Mary :
+A préciser le traitement coupe feu  de ces reprises structurelles";;;;;;;;;;;;;;;;;;;;;;;;;;;;;19/10/2023;-68;09/01/2024;F;;169;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;PLN;0;Plan de calepinage faux plancher R+1;B;EXE-BAN-PLT-18-R+1-PLN-0001-0-Plan de calepinage faux plancher R+1.pdf;DI;12/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces graphiques;;;12/10/2023;-4;31/10/2023;VAO;;154;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;12/10/2023;;27/10/2023;F;;39;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;PLN;0;Plan de calepinage faux plancher R+1;A;EXE-BAN-PLT-18-R+1-PLN-0001-0-Plan de calepinage faux plancher R+1.pdf;;06/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces graphiques;;;06/10/2023;;;;21/10/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;06/10/2023;;;;21/10/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;PLN;0;Plan de calepinage faux plancher R+1;0;EXE-BAN-PLT-18-R+1-PLN-0001-0-Plan de calepinage faux plancher R+1.pdf;;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces graphiques;;;04/10/2023;;;;19/10/2023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;;04/10/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;7;PRÉGYDRO BA13;0;PRÉGYDRO BA13.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;114;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence 
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-108;05/02/2024;F;;192;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;6;FDES plaques de platre_PREGYPLAC BA13 STD et HYDRO;0;FDES plaques de platre_PREGYPLAC BA13 STD et HYDRO.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;115;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-108;05/02/2024;H;;187;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;5;FDES plaques de platre_PREGYPLAC BA13 STD et HYDRO;0;FDES plaques de platre_PREGYPLAC BA13 STD et HYDRO.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;116;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence 
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-108;05/02/2024;H;;186;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;4;Plaque de plâtre;0;DOP SI P 004 v1 - plaques de plâtre.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;117;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-108;05/02/2024;F;;191;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;1;Knauf déclaration des performances;0;25864.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;119;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-108;05/02/2024;F;;185;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;0;KNAUF Aquapanel;0;25715.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;120;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-108;05/02/2024;H;;189;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;5;Mise à la terre 5mm²;0;EXE-BAN-PLT-18-R+1-FT-0006-0-Mise à la terre 5mm².pdf;DI;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces écrites;;;04/10/2023;-5;24/10/2023;NC;;123;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence
+Caractéristique technique
+Référence article CCTP / Plan
+
+SUR RESERVE VALIDATION ATEC";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;-8;27/10/2023;F;;44;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;6;FT VC SYSTEMAIR SYSQUARE;0;Systemair_SQ_20_--_2P_--_--_-----.pdf;DI;04/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;04/10/2023;-5;23/10/2023;VOB;;38;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;04/10/2023;;10/10/2023;REF;;22;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;04/10/2023;-82;09/01/2024;F;;108;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;5;FT VC SYSTEMAIR SCC;0;Systemair_SCC804PECLG2ECO.pdf;DI;04/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;04/10/2023;-5;23/10/2023;VOB;;39;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;04/10/2023;;10/10/2023;REF;;21;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;04/10/2023;-82;09/01/2024;F;;107;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;4;FT VC SYSTEMAIR DUCTYS;0;Systemair_DUCTYS.pdf;DI;04/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;04/10/2023;-5;23/10/2023;VOB;;40;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;04/10/2023;;10/10/2023;REF;;20;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;04/10/2023;-82;09/01/2024;F;;106;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;3;FT VC CARRIER 42GW;0;CARRIER X000DCG000171600B_IOM_07_2017_42GW.pdf;DI;04/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;04/10/2023;-5;23/10/2023;VOB;;41;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;04/10/2023;;10/10/2023;REF;;19;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;04/10/2023;-82;09/01/2024;F;;105;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;2;FT VC CARRIER 42NH;0;CARRIER FR7606669-00_IOM_02_2022_ 42NH.pdf;DI;04/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;04/10/2023;-5;23/10/2023;VOB;;42;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;04/10/2023;;10/10/2023;REF;;18;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;04/10/2023;-82;09/01/2024;F;;104;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;BUR;R+1;FTP;1;FT VC CARRIER 42EP;0;CARRIER FR7573046-03_IOM_07_2023_42EP.pdf;DI;04/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 11 - CVCD/Fiche Technique Produit;;;04/10/2023;-5;23/10/2023;VOB;;43;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;04/10/2023;;10/10/2023;VOB;;17;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;04/10/2023;-82;09/01/2024;F;;103;;;;;;;;;;;;;;
+PECM;EXE;DPR;GTB;TZ;R+1;PLN;3;GTB R+1;0;GTB-Plan R+1.pdf;DI;03/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces graphiques;;;03/10/2023;-6;23/10/2023;VOB;;44;;"Roberto SABELLA :
+Prendre en considération observation faites lors de la réunion extraordinaire du 17/10/23 cf. CR17;";;;;;;;;;;;03/10/2023;;10/10/2023;VOB;;16;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;03/10/2023;-83;09/01/2024;H;;99;;;;;;;;;;;;;;
+PECM;EXE;DPR;GO;TZ;R+1;PLN;1;PLAN DE MACONNERIES;0;PEC MARENGO - Plan de maçonneries.pdf;DI;02/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 02 - DEMOLITION GROS OEUVRE/Pièces graphiques;;;02/10/2023;-13;30/10/2023;VAO;;149;;;;;-112;;VAO;;3;02;"Pierre Mary :
+A préciser :
+la nature et la masse volumique des maçonneries utilisées
+le traitement entre l'arase supérieure du dernier parpaing en hauteur et l'arase inférieur du plancher haut R+1
+à fournir
+la vérification de la capacité portante du plancher au droit de ces 3 ouvrages.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;02/10/2023;-84;09/01/2024;F;;170;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;4;réseaux EGEC;0;EXE-CLIM-CVC-C11-RDC-NDC-04-NdC réseaux EGEC.pdf;DI;29/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;29/09/2023;-10;23/10/2023;NC;;19;;;;;;;;;;;;;29/09/2023;;04/10/2023;VSO;;15;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;29/09/2023;-46;29/11/2023;H;;97;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;5;Déversoir murale;0;PRO_961925.pdf;DI;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;27/09/2023;-12;23/10/2023;VOB;;91;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;27/09/2023;-47;27/11/2023;VSO;;70;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;27/09/2023;-16;27/10/2023;H;;35;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;4;Barre de main;0;FR_fre_510161P (1).pdf;DI;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;27/09/2023;-12;23/10/2023;VOB;;94;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;27/09/2023;-47;27/11/2023;VSO;;69;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;27/09/2023;-16;27/10/2023;H;;34;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;3;Robinet automatique;0;FR_fre_370100.pdf;DI;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;27/09/2023;-12;23/10/2023;VOB;;95;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;27/09/2023;-47;27/11/2023;VOB;;68;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;27/09/2023;-16;27/10/2023;H;;33;;;;;;;;;;;;;;
+PECM;EXE;DPR;PB;SAN;R+1;FTP;0;DURAVIT;0;en005Duravit_MI_1994805.pdf;DI;27/09/2023;;Julien MATHIEU;/01 - DOC EXE/LOT 10 - Plomberie Sanitaire/Fiche Technique Produit;;;27/09/2023;-12;23/10/2023;NC;;93;;;;;;;;;;;;;27/09/2023;-47;27/11/2023;VSO;;79;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;27/09/2023;-16;27/10/2023;H;;30;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;1;Apports Déperditions;A;EXE-CLIM-CVC-C11-TN-NDC-01-0-Apports-déperditions.pdf;DI;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;18/09/2023;-21;23/10/2023;NC;;20;;;;;;;;;;;;;18/09/2023;;26/09/2023;VOB;;7;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;18/09/2023;-24;27/10/2023;H;;12;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;1;Apports Déperditions;0;EXE-CLIM-CVC-C11-TN-NDC-01-0-Apports-déperditions.pdf;;11/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;11/09/2023;;;;26/09/2023;;;;;;;;;;;;;;11/09/2023;;12/09/2023;VOB;;4;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;11/09/2023;;;;26/09/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;3;Bilan aéraulique;A;EXE-CLIM-CVC-C11-TN-NDC-03-0-Bilan aéraulique.pdf;DI;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;18/09/2023;-21;23/10/2023;NC;;21;;;;;;;;;;;;;18/09/2023;;26/09/2023;VSO;;5;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;18/09/2023;-24;27/10/2023;H;;11;;;;;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;NDC;3;Bilan aéraulique;0;EXE-CLIM-CVC-C11-TN-NDC-03-0-Bilan aéraulique.pdf;;11/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;11/09/2023;;;;26/09/2023;;;;;;;;;;;;;;11/09/2023;;12/09/2023;VAO;;2;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;11/09/2023;;;;26/09/2023;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;4;BANDE ETANCHEITE BE14;0;bande_dtanchit_BE_14.pdf;DI;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;VOB;;99;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;;15/09/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;5;ULTRACOLOR PLUS;0;1_02801_ultracolor-plus_fr-fr_9fb0a277b4984b27a0d3a4dfdc234d97 - copie.pdf;DI;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;VOB;;100;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;;15/09/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;6;PRB MONOCEL;0;(2)ft_prb_monocel_fr_18_08_2022.pdf;DI;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;VOB;;101;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;;15/09/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;7;PRO COL FLEX;0;(2)ft_prb_col_flex_fr_27_11_2020.pdf;DI;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;VOB;;102;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;;15/09/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CAR;SAN;R+1;FTP;8;PRB ACCROSOL PLUS;0;(1)ft_prb_accrosol_plus_fr_13_06_2022.pdf;DI;15/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 16 - Carrelage Faïence/Fiche Technique Produit;;;15/09/2023;-24;23/10/2023;VOB;;103;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/09/2023;-27;27/10/2023;S;;7;;;"Julien MATHIEU :
+que manque t'il pour lever l'avis Suspendu car pas de remarques ?";;;;;;;;;;;
+PECM;EXE;DPR;CVCD;TZ;R+1;PLN;0;Plan de zonin R+1;0;EXE-CLIM-CVC-C11-TN-PL-00-Plan de zonin R+1.pdf;DI;11/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 11 - CVCD/Pièces écrites;;;11/09/2023;-27;23/10/2023;NC;;22;;;;;;;;;;;;;11/09/2023;;12/09/2023;VSO;;1;;"Brice SIRJEAN :
+cf PJ";;;;;;;;;;;;;;;;;;;;11/09/2023;-31;27/10/2023;F;;6;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;FTP;0;Vitrage PERFOGLASS;A;peRFoGlass® - Impression94.pdf;;28/03/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Fiche Technique Produit;;;28/03/2024;;;;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;;12/04/2024;;;;;28/03/2024;;;;12/04/2024;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;7;FT RIGITONE R;A;RigitoneRActivAirR 818.pdf;DI;22/04/2024;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Fiche Technique Produit;;;22/04/2024;;;10;07/05/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;22/04/2024;;;10;07/05/2024;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;10;PRÉGYPLAC Std BA13;A;PRÉGYPLAC Std BA13.pdf;DI;18/04/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/04/2024;;;7;03/05/2024;;;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;OCC;BUR;R+1;FTP;2;FT COFFRES STORES;B;Documentation COFFRE_web 2023.pdf;DI;18/04/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 06 - Occultation/Fiche Technique Produit;;;18/04/2024;;;7;03/05/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/04/2024;;;7;03/05/2024;;;;;18/04/2024;;;7;03/05/2024;;;;;18/04/2024;;;7;03/05/2024;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;6;FT PORTE ACOUSTIQUE ACCES SANITAIRES 35dB;A;VANTEC MARENGO - FT PORTE ACOUSTIQUE ACCES SANITAIRE 30 35dB.pdf;DI;09/04/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;09/04/2024;;;-2;24/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;09/04/2024;;;-2;24/04/2024;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;7;FT PORTE ACOUSTIQUE ACCES SANITAIRES 38dB;A;VANTEC MARENGO - FT PORTE ACOUSTIQUE ACCES SANITAIRE 38dB.pdf;DI;03/04/2024;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;03/04/2024;;;-8;18/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;03/04/2024;;;-8;18/04/2024;;;;;;;;;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;27;par_phonic;A;par_phonic.pdf;DI;28/03/2024;;Romario BANDULA;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;28/03/2024;;;-14;12/04/2024;;;;;28/03/2024;;;-14;12/04/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;6;Joint EPDM 362 15x5;0;EXE-BAN-PLT-18-R+1-FT-0007-0-Joint EPDM 362 15x5.pdf;DI;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces écrites;;;04/10/2023;-5;24/10/2023;VOB;;121;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;;04/10/2023;PI;;;;;;04/10/2023;-8;27/10/2023;F;;43;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;4;Barriere Acoutimass 80;0;EXE-BAN-PLT-18-R+1-FT-0005-0-Barriere Acoutimass 80.pdf;DI;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces écrites;;;;;30/10/2023;NC;;151;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;;04/10/2023;PI;;;;;;04/10/2023;-8;27/10/2023;F;;45;;;;;;;;;;;;;"EXE
+04/10/2023
+ARC - DTACC -> NC
+Roberto SABELLA :";
+PECM;EXE;DPR;FP;BUR;R+1;FTP;3;Plancher surélevé 600x600 Burométal 19 M1;0;EXE-BAN-PLT-18-R+1-FT-0004-0-Plancher surélevé 600x600 Burométal 19 M1.pdf;DI;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces écrites;;;04/10/2023;-5;24/10/2023;NC;;124;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;;04/10/2023;PI;;;;;;04/10/2023;-8;27/10/2023;F;;46;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;2;Colle à verins Emfi 74143U;0;EXE-BAN-PLT-18-R+1-FT-0003-0-Colle à verins Emfi 74143U.pdf;DI;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces écrites;;;04/10/2023;-5;24/10/2023;NC;;128;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;;04/10/2023;PI;;;;;;04/10/2023;-8;27/10/2023;F;;42;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;1;Verins MT2;0;EXE-BAN-PLT-18-R+1-FT-0002-0-Verins MT2.pdf;DI;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces écrites;;;;;24/10/2023;NC;;127;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;;04/10/2023;PI;;;;;;04/10/2023;-8;27/10/2023;F;;41;;;;;;;;;;;;;"EXE
+04/10/2023
+ARC - DTACC -> NC
+Roberto SABELLA :";
+PECM;EXE;DPR;FP;BUR;R+1;FTP;0;Peinture de sol Gehotex;0;EXE-BAN-PLT-18-R+1-FT-0001-0-Peinture de sol Gehotex-0182.pdf;DI;04/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 18 - Faux plancher/Pièces écrites;;;04/10/2023;-5;24/10/2023;NC;;125;;"Roberto SABELLA :
+CHANGER TITRE  ""AVANT PROJET"" EN ""MARCHE""";;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/10/2023;;04/10/2023;PI;;;;;;04/10/2023;-8;27/10/2023;F;;40;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;35;VEC + ENVIRONNEMENT;0;FIXE N-12 Environnement (1).pdf;DI;23/01/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;23/01/2024;;02/02/2024;VOB;;240;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;19/03/2024;VOB;;80;;"Chérif HADREB :
+Le visa acoustique des ensembles menuisés vitrés s’effectue sur la base de PV d’essais acoustiques laboratoire. Transmettre les détails d’exécution de calfeutrement en périphérie des châssis.";;23/01/2024;;;-79;07/02/2024;;;;;;;;;;;;;;"EXE
+23/01/2024
+ACOUSTIQUE - CAP HORN -> VOB
+Chérif HADREB :
+Le visa acoustique des ensembles menuisés vitrés s’effectue sur la base de PV d’essais acoustiques laboratoire. Transmettre les détails d’exécution de calfeutrement en périphérie des châssis.";
+PECM;EXE;DPR;MEXT;TZ;R+1;PEC;2;ATTESTATION PERFORMANCE ACOUSTIQUE BOIS;0;F - Acoustique - BOIS.pdf;DI;23/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;23/11/2023;;23/11/2023;PI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/01/2024;VOB;;40;;"Chérif HADREB :
+L'affaiblissement acoustique du Châssis est de RA,tr = 39 dB, une valeur cohérente à la notice acoustique.
+Cependant, nous notons 2 points bloquants:
+> les dimensions du châssis testé sont inférieures aux dimensions 
+> le châssis testé possède 2 ouvrants battants tandis que les châssis du projet, sur la base des documents diffusés par l'entreprise sont des châssis Oscillo-battants";;23/11/2023;-32;09/01/2024;H;;165;;;;23/11/2023;;28/11/2023;VSO;;13;22;"Vincent Pottier :
+voir PJ";;"EXE
+23/11/2023
+ACOUSTIQUE - CAP HORN -> VOB
+Chérif HADREB :
+L'affaiblissement acoustique du Châssis est de RA,tr = 39 dB, une valeur cohérente à la notice acoustique.
+Cependant, nous notons 2 points bloquants:
+> les dimensions du châssis testé sont inférieures aux dimensions 
+> le châssis testé possède 2 ouvrants battants tandis que les châssis du projet, sur la base des documents diffusés par l'entreprise sont des châssis Oscillo-battants";
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;10;PRÉGYPLAC Std BA13;0;PRÉGYPLAC Std BA13.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;110;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence 
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;VAO;;31;;"Chérif HADREB :
+Nous transmettre un plan de repérage de cloisonnement";"Julien MATHIEU :
+voir dans l'onglet pièces graphique";05/10/2023;-108;05/02/2024;F;;197;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;6;FT PORTE ACOUSTIQUE ACCES SANITAIRES 35dB;0;VANTEC MARENGO - FT PORTE ACOUSTIQUE ACCES SANITAIRE 30 35dB.pdf;;04/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;04/12/2023;;08/12/2023;REF;;206;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/12/2023;-27;15/01/2024;VOB;;6;;"Chérif HADREB :
+La fiche technique ne peut être considérée comme un PV acoustique. 
+Nous transmettre un plan de repérage des valeurs d'affaiblissement acoustique des blocs portes Cf. Notice acoustique §13.8.
+Pour chaque type de bloc porte, joindre son PV acoustique ou son rapport d'essai acoustique en laboratoire.";;04/12/2023;-48;05/02/2024;H;;176;;;;;;;;;;;;;;
+PECM;EXE;DPR;MINT;SAN;R+1;FTP;7;FT PORTE ACOUSTIQUE ACCES SANITAIRES 38dB;0;VANTEC MARENGO - FT PORTE ACOUSTIQUE ACCES SANITAIRE 38dB.pdf;;04/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 09 - MINT/Fiche Technique Produit;;;04/12/2023;;11/12/2023;REF;;210;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;04/12/2023;-27;15/01/2024;VOB;;5;;"Chérif HADREB :
+La fiche technique ne peut être considérée comme un PV acoustique. 
+Nous transmettre un plan de repérage des valeurs d'affaiblissement acoustique des blocs portes Cf. Notice acoustique §13.8.
+Pour chaque type de bloc porte, joindre son PV acoustique ou son rapport d'essai acoustique en laboratoire.";;04/12/2023;-48;05/02/2024;H;;177;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;34;membrane_stopvap_90;0;membrane_stopvap_90.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;REF;;64;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;7;;;;05/10/2023;-10;29/10/2023;F;;82;;;;;;;;;;;;;;
+PECM;EXE;DPR;MET;BUR;R+1;PLN;0;Porte DAS;0;DC.22.10.0392 - Cahier de plans pour validation - Ind B.pdf;;09/11/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 08 - Métallerie/Pièces graphiques;;;09/11/2023;;22/11/2023;VOB;;193;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;09/11/2023;-52;15/01/2024;VOB;;41;;"Chérif HADREB :
+Les ouvrages et châssis menuisés devront justifier d'un affaiblissement acoustique cohérent à la notice acoustique, Cf. 7.2. L'affaiblissement acoustique devra être garanti par un PV ou rapport d'essai acoustique laboratoire. 
+> En périphérie des châssis, le vide rempli de laine minérale nécessaire à la dilatation des châssis, devra être renforcé acoustiquement. Sur les faces latérales du vide, il sera prévu un habillage en viscoélastique ép. 5 mm + tôle en aluminium 20/10 au moins. Nous transmettre un détail pour avis 
+> Imposte CF : cloison 120/70 + laine de verre, RA = 50 dB au moins
+> Talonnette en béton support du châssis vitré";;09/11/2023;-73;05/02/2024;F;;175;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;24;Colle Enduit PF3;0;Colle Enduit PF3.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;VOB;;74;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;17;;;;05/10/2023;-10;29/10/2023;F;;94;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;27;par_phonic;0;par_phonic.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;VOB;;71;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;VAO;;14;;"Chérif HADREB :
+L'épaisseur du panneau de laine de verre devra être adaptée à l'épaisseur de l'ossature de la cloison. Le panneau de laine de verre ne doit pas être comprimé.";"Romario BANDULA :
+La laine de verre est d'une épaisseur de 45mm.
+Elle est prévu et mis en oeuvre dans les cloisons montées avec des rails et montant de 48mm donc non comprimé.";05/10/2023;-10;29/10/2023;F;;87;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;37;Montant PRÉGYMÉTAL 48 356;0;Montant PRÉGYMÉTAL 48-356.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;REF;;61;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;53;;;;05/10/2023;-10;29/10/2023;F;;80;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;SAN;R+1;FTP;39;Montant PRÉGYMÉTAL 70 356;0;Montant PRÉGYMÉTAL 70-356.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;REF;;59;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;51;;;;05/10/2023;-10;29/10/2023;F;;79;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;41;Rail PRÉGYMÉTAL 48 305 4;0;Rail PRÉGYMÉTAL 48-305.4.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;REF;;57;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;49;;;;05/10/2023;-10;29/10/2023;F;;78;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;43;Rail PRÉGYMÉTAL 70 305 4;0;Rail PRÉGYMÉTAL 70-305.4.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;REF;;55;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;45;;;;05/10/2023;-10;29/10/2023;F;;77;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;31;gr_32_roule_revetu_kraft;0;gr_32_roule_revetu_kraft.pdf;;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;VOB;;67;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;VAO;;10;;"Chérif HADREB :
+Le panneau de laine de verre monté sur ossature ne doit pas être comprimé. Se reporter au §10.3 de la Notice acoustique";"Romario BANDULA :
+Le complexe du doublage est prévu et réaliser en 15cm d'épaisseur donc non comprimé.";05/10/2023;-10;29/10/2023;F;;92;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;38;FIXE N9;0;FIXE N9.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;253;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;67;;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;30;40;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;37;FIXE N9 Environnement;0;FIXE N9 Environnement.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;252;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;68;;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;31;41;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;36;FIXE N12;0;FIXE N12.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;251;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;69;;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;32;42;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;35;FIXE N12 Environnement;0;FIXE N12 Environnement.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;250;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;70;;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré . Nous transmettre le détails d'étanchéité en périphérie pour avis";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;33;43;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;34;FIXE N11;0;FIXE N11.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;249;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;71;;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré. Joindre détails de calfeutrement en périphérie du châssis pour avis";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;34;44;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;33;FIXE N11 Environnement;0;FIXE N11 Environnement.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;248;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;72;;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré . Transmettre détails d'exécution  d'étanchéité en périphérie pour avis.";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;35;45;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;32;FIXE N10;0;FIXE N10.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;247;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;73;Châssis vitré;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré . Transmettre détails d'exécution  d'étanchéité en périphérie pour avis.";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;36;46;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;31;FIXE N10 Environnement;0;FIXE N10 Environnement.pdf;DI;13/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;13/02/2024;;16/02/2024;VOB;;246;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;13/02/2024;-20;19/03/2024;VOB;;74;;"Chérif HADREB :
+La validation acoustique du châssis s'effectue sur la base du PV d'essai acoustique laboratoire justifiant l'affaiblissement acoustique de l'ensemble vitré . Transmettre détails d'exécution  d'étanchéité en périphérie pour avis.";;13/02/2024;;;-58;28/02/2024;;;;;13/02/2024;;14/02/2024;REF;;37;47;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;FP;TZ;R+1;PLN;2;PLAN FAUX PLAFONDS SUSPENDU;D;KRT Plan plafonds suspendus R01 indice A.pdf;DI;05/02/2024;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Pièces graphiques;;;05/02/2024;-6;26/02/2024;VAO;;259;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/02/2024;-28;19/03/2024;VOB;;75;;"Chérif HADREB :
+PRENDRE EN COMPTE NOS OBSERVATIONS : 
+1 - L’absorption acoustique  de la plaque de plâtre perforée doit être cohérente à la notice acoustique à savoir ?w ? 0,70. Type de plafond Delta UFF 8/18 R ou Delta UFF 8/18 Q, Cf. Notice acoustique §14.2. Transmettre fiche technique et un détail du complexe du plafond, Cf. Notice acoustique §14.2.1. Justifier, par calculs, que la surface du plafond en plaque perforée représente au moins 69% de la surface au sol.  2 – L’Organic Mineral devra justifier d’une absorption acoustique ?w ? 1,0, épaisseur 75 mm. 3 – Barrière acoustique 72/48 (laine de verre). 4 – Jouée devra être cohérente à la notice acoustique §14.4 (Plaque de plâtre BA13 + Laine de verre). 5 – Bac basculant en tôle perforée + laine de verre, devra justifier une absorption acoustique ?w = 0,75 et une atténuation acoustique Dncw + C = 45 dB. Cf Notice acoustique, §14.6";"Romario BANDULA :
+Vous trouverez ci-joint le carnet de coupes pour les différents type de faux-plafond.
+Les différentes fiches techniques sont déjà présentes sur la GED, qui répondent à vos différentes remarques.
+ fr :  
+PECM-EXE-DPR-FP-TZ-R+1-CPE-003-CARNET DE COUPES FAUX PLAFOND-A.pdf";05/02/2024;;;-66;20/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;TZ;R+1;PLN;2;PLAN FAUX PLAFONDS SUSPENDU;C;KRT Plan plafonds suspendus R01 indice A.pdf;;15/12/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Pièces graphiques;;;15/12/2023;-5;04/01/2024;VAO;;221;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;15/12/2023;-17;15/01/2024;VOB;;2;;"Chérif HADREB :
+Préciser et justifier les éléments suivants :
+> Habillage des poutres, prévoir panneau de laine de verre 
+> les bacs métalliques perforés dans les circulations devront être équipés de panneau en laine de roche ensaché. Justifier leur absorption acoustique Cf Notice acoustique §14.6
+> Plafond en plaque de plâtre perforée : Préciser le type de perforation, le % ainsi que son absorption acoustique à l'aide de PV acoustique, Cf Notice acoustique §14.2. Fournir une coupe détail du complexe. 
+> Préciser l'épaisseur du panneau Organic Minéral de chez Knauf, Cf Notice acoustique §14.5
+> le % de la surface du plafond en plaque de plâtre perforée doit être au moins 65% de la surface au sol d'un bureau ou d'un plateau de bureaux. A justifier.";;15/12/2023;;15/12/2023;PI;;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;RDC;PLN;30;MEXT DELICE DE MARENGO RDC;B;Rue Marengo - Ensemble menuiserie RDC commerce _ R+1  - 24.pdf;DI;02/02/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;02/02/2024;;06/02/2024;VOB;;243;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;02/02/2024;-32;19/03/2024;VOB;;76;;"Chérif HADREB :
+Le visa acoustique des ensembles menuisés vitrés s’effectue sur la base de PV d’essais acoustiques laboratoire. Transmettre les détails d’exécution de calfeutrement en périphérie des châssis.";;02/02/2024;;;-70;17/02/2024;;;;;02/02/2024;;14/02/2024;REF;;29;39;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;RDC;PLN;30;MEXT DELICE DE MARENGO RDC;0;Rue Marengo - Ensemble menuiserie RDC commerce _ R+1  - 24.pdf;;19/12/2023;;Quentin AUBERT-TRUCHEFAUD;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;19/12/2023;-5;08/01/2024;VOB;;223;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;19/12/2023;-12;15/01/2024;VOB;;1;;"Chérif HADREB :
+Nous transmettre:
+> Un plan de repérage de l'ensemble châssis + bloc porte. 
+> PV ou rapport d'essai acoustique justifiant la performance de l'ouvrage. Ce rapport devra posséder le même type de vitrage, type de bloc porte ... etc.";;19/12/2023;-6;09/01/2024;S;;164;;"Meriem ABDELLAOUI :
+Il conviendra d'indiquer les fixations des menuiseries mises en place (espacement, type, ...).";;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;37;Rue de MARENGO MEXT 34;A;Rue de MARENGO - MEXT 34 IndB.pdf;DI;23/01/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;23/01/2024;;02/02/2024;VOB;;241;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/01/2024;-41;19/03/2024;VOB;;77;;"Chérif HADREB :
+Le visa acoustique des ensembles menuisés vitrés s’effectue sur la base de PV d’essais acoustiques laboratoire. Transmettre les détails d’exécution de calfeutrement en périphérie des châssis.";;23/01/2024;;;-79;07/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;36;VEC;0;FIXE N-12.pdf;DI;23/01/2024;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;23/01/2024;;02/02/2024;VOB;;239;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/01/2024;-41;19/03/2024;VOB;;78;;"Chérif HADREB :
+Le visa acoustique des ensembles menuisés vitrés s’effectue sur la base de PV d’essais acoustiques laboratoire. Transmettre les détails d’exécution de calfeutrement en périphérie des châssis.";;23/01/2024;;;-79;07/02/2024;;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;7;MEXT Rivoli 38;0;162 rue de Rivoli - MEXT Type 1 REP 38 IndA.pdf;DI;07/12/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;07/12/2023;-2;23/12/2023;VOB;;217;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;07/12/2023;-25;15/01/2024;VOB;;3;;"Chérif HADREB :
+Joindre PV acoustique des châssis justifiant le respect des affaiblissements acoustiques fixés dans la notice acoustique, Cf §9.7";;07/12/2023;;07/12/2023;PI;;;;;;07/12/2023;;21/12/2023;REF;;19;29;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;8;MEXT Rivoli 37;0;162 rue de Rivoli - MEXT Type 1 REP 37 IndA.pdf;DI;07/12/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;07/12/2023;-2;23/12/2023;VOB;;216;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;07/12/2023;-25;15/01/2024;VOB;;34;;"Chérif HADREB :
+Comme il est stipulé dans la notice acoustique au §9.3, le visa acoustique des châssis s'effectue sur la base de PV acoustique. à nous les transmettre.
+Les affaiblissements acoustiques des châssis, selon l'exposition, sont repérés au § 9.7 de la notice acoustique marché.";;07/12/2023;;07/12/2023;PI;;;;;;07/12/2023;;21/12/2023;REF;;20;30;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;7;MEX39T Rivoli;0;162 rue de Rivoli - MEXT Type 1 REP 39 IndA.pdf;DI;07/12/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;07/12/2023;-2;23/12/2023;VOB;;218;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;07/12/2023;-25;15/01/2024;VOB;;35;;"Chérif HADREB :
+Comme il est stipulé dans la notice acoustique au §9.3, le visa acoustique des châssis s'effectue sur la base de PV acoustique. à nous les transmettre.
+Les affaiblissements acoustiques des châssis, selon l'exposition, sont repérés au § 9.7 de la notice acoustique marché.";;07/12/2023;;07/12/2023;PI;;;;;;07/12/2023;;21/12/2023;REF;;21;31;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;6;MEXT Rivoli 36;0;162 rue de Rivoli - MEXT Type 1 REP 36 IndA.pdf;DI;07/12/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;07/12/2023;-2;23/12/2023;VOB;;215;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;07/12/2023;-25;15/01/2024;VOB;;36;;"Chérif HADREB :
+Comme il est stipulé dans la notice acoustique au §9.3, le visa acoustique des châssis s'effectue sur la base de PV acoustique. à nous les transmettre.
+Les affaiblissements acoustiques des châssis, selon l'exposition, sont repérés au § 9.7 de la notice acoustique marché.";;07/12/2023;;07/12/2023;PI;;;;;;07/12/2023;;21/12/2023;REF;;22;32;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;5;MEXT Rivoli 35;0;162 rue de Rivoli - MEXT Type 1 REP 35 IndA.pdf;DI;07/12/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;07/12/2023;-2;23/12/2023;VOB;;214;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;07/12/2023;-25;15/01/2024;VOB;;4;;"Chérif HADREB :
+Le visa acoustique des châssis de façades s'effectue sur la base de PV ou rapport d'essais acoustiques laboratoires Cf. Notice acoustique §9.3.
+se reporter au repérage des affaiblissements acoustique de la notice acoustique §9.7.
+Nous transmettre les PV acoustiques des châssis, fixes, ouvrants, prévus. A ne pas confondre avec des fiches techniques !";;07/12/2023;;07/12/2023;PI;;;;;;07/12/2023;;21/12/2023;REF;;23;33;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;TZ;R+1;PEC;4;FDES BOIS;0;FDES Bois.pdf;DI;23/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;23/11/2023;;23/11/2023;PI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/11/2023;-38;15/01/2024;VOB;;37;;"Chérif HADREB :
+Comme il est stipulé dans la notice acoustique au §9.3, le visa acoustique des châssis s'effectue sur la base de PV acoustique. à nous les transmettre.
+Les affaiblissements acoustiques des châssis, selon l'exposition, sont repérés au § 9.7 de la notice acoustique marché.";;23/11/2023;-32;09/01/2024;H;;167;;;;23/11/2023;;28/11/2023;VSO;;11;21;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;TZ;R+1;PEC;3;RAPPORT D'ESSAI AEV BOIS;0;F - AEV - BOIS.pdf;DI;23/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;23/11/2023;;23/11/2023;PI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/11/2023;-38;15/01/2024;NC;;38;;;;23/11/2023;-32;09/01/2024;F;;166;;;;23/11/2023;;28/11/2023;VSO;;12;24;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;TZ;R+1;PEC;1;ATTESTATION PERFORMANCE BOIS;0;Attestation performance bois.pdf;DI;23/11/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces écrites;;;23/11/2023;;23/11/2023;PI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/11/2023;-39;15/01/2024;VOB;;48;;"Chérif HADREB :
+Le visa acoustique ne s'effectue que sur la base de PV ou rapport d'essai acoustique";;23/11/2023;-32;09/01/2024;F;;168;;;;23/11/2023;;28/11/2023;VSO;;14;23;"Vincent Pottier :
+voir PJ";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;3;PLAN MEXT COTE ST HONORE + ORATOIRE;0;MEXT J.D.L'oratoire_ St Honoré PL400 Ind0.pdf;DI;23/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;23/10/2023;-1;07/11/2023;VOB;;177;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;23/10/2023;-70;15/01/2024;VOB;;42;;"Chérif HADREB :
+Transmettre PV acoustique des châssis Oscillo-battants";;23/10/2023;-63;09/01/2024;S;;151;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";;23/10/2023;;03/11/2023;REF;;8;18;"Vincent Pottier :
+voir pièce jointe";;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;2;PLAN MEXT RUE MARENGO;A;MEXT R+1 Rue Marengo - MEXT Rue Marengo.IndA.pdf;DI;16/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;16/10/2023;-3;03/11/2023;VOB;;175;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;16/10/2023;-77;15/01/2024;VOB;;43;;"Chérif HADREB :
+Nous transmettre PV acoustique des châssis Oscillo
+Nous transmettre le PV acoustique des châssis OP. Est ce que la serrurerie des châssis OP est identique aux châssis courants, préciser le nombre de point de fermeture 
+La tôle acier pliée support à la base du châssis ne permet pas de garantir l'affaiblissement acoustique.";;16/10/2023;-70;09/01/2024;S;;152;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";;16/10/2023;-3;03/11/2023;REF;;6;17;"Vincent Pottier :
+voir pièce jointe";;;
+PECM;EXE;DPR;SP;BUR;R+1;FTP;0;Moquette;0;FT-_T3580_City_Square.pdf;DI;11/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 15 - Sols souples/Fiche Technique Produit;;;11/10/2023;;23/10/2023;REF;;104;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;11/10/2023;-82;15/01/2024;VOB;;44;;"Chérif HADREB :
+La moquette proposée possède une absorption acoustique de 0,15 quand la notice acoustique impose 0,30 au moins, Cf. Notice acoustique §12.2";;11/10/2023;-2;27/10/2023;S;;38;;"Meriem ABDELLAOUI :
+Le classement UPEC doit correspondre à l'usage prévu du revêtement de sol.";;;;;;;;;;;;
+PECM;EXE;DPR;CLO;SAN;R+1;FTP;35;profilés;0;DOP SI PR 001 v1 - profilés.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;63;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;55;;;;05/10/2023;-10;29/10/2023;F;;81;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;32;DOP 0003 01;0;DOP-0003-01.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;66;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;9;;;;05/10/2023;-10;29/10/2023;F;;88;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;28;ACERMI;0;ACERMI.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;13;;;;05/10/2023;-10;29/10/2023;F;;84;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;25;DOP;0;DOP.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;73;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;16;;;;05/10/2023;-10;29/10/2023;F;;93;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;22;FDES Colles  SINIAT SALSI;0;2020 12_FDES_Colles - SINIAT-SALSI.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;19;;;;05/10/2023;-10;29/10/2023;H;;58;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;21;liant colle carreaux;0;DOP SISA LC 002 v0 - liant colle carreaux.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;77;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;20;;;;05/10/2023;-10;29/10/2023;F;;95;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;16;carreaux de plâtre;0;DOP SI CX 010 v1 - carreaux de plâtre.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;82;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;25;;;;05/10/2023;-10;29/10/2023;F;;85;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;SAN;R+1;FTP;14;FDES plaques de platre_PREGYPLAC STD, HYDRO, ROC;0;FDES plaques de platre_PREGYPLAC STD, HYDRO, ROC DE BA18 A BA25S.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;84;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;27;;"Chérif HADREB :
+La notice acoustique ne prescrit pas de plaque de plâtre BA25 S !";;05/10/2023;-10;29/10/2023;H;;51;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;13;PRÉGYFLAM Std BA15;0;PRÉGYFLAM Std BA15.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;;;24/10/2023;NC;;107;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;28;;"Chérif HADREB :
+La notice acoustique ne prescrit pas de plaque de plâtre BA15";;05/10/2023;-108;05/02/2024;F;;196;;;;;;;;;;;;;"EXE
+
+ARC - DTACC -> NC
+Roberto SABELLA :";"EXE
+05/10/2023
+ARC - DTACC -> NC
+Roberto SABELLA :"
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;12;DVS_PREGYFLAM_SINIAT_V1_11 02 2021_FR;0;DVS_PREGYFLAM_SINIAT_V1_11 02 2021_FR.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;108;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Produit de référence 
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;29;;;;05/10/2023;-108;05/02/2024;H;;184;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;11;FDES plaques de platre_PLAQUES PROTECTION INCENDIE;0;FDES plaques de platre_PLAQUES PROTECTION INCENDIE DE BA13 A BA15.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;109;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;30;;;;05/10/2023;-108;05/02/2024;H;;188;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;9;DVS_PLAQUE DE PLATRE_SINIAT_V1_11 02 2021_FR;0;DVS_PLAQUE DE PLATRE_SINIAT_V1_11 02 2021_FR.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;111;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;32;;;;05/10/2023;-108;05/02/2024;H;;195;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;8;FDES plaques de platre_PREGYPLAC BA13 STD et HYDRO;0;FDES plaques de platre_PREGYPLAC BA13 STD et HYDRO.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;112;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence 
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;33;;;;05/10/2023;-108;05/02/2024;H;;194;;;;;;;;;;;;;;
+PECM;EXE;DPR;CLO;TZ;R+1;FTP;7;plaques de plâtre;0;DOP SI P 004 v1 - plaques de plâtre.pdf;DI;05/10/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 07 - Cloison Doublage/Fiche Technique Produit;;;05/10/2023;-4;24/10/2023;NC;;113;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;56;;;;05/10/2023;-108;05/02/2024;F;;193;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;5;DP RIGITONE;0;DoP_PLF001_EN_14190_2014_Rigitone.pdf;DI;05/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;NC;;48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-87;15/01/2024;NC;;58;;;;05/10/2023;-10;29/10/2023;F;;71;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;2;FIBRAROC;0;3440-dalle-acoustique-en-laine-de-bois-2023-03-27-1402.pdf;DI;05/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;VOB;;50;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-88;15/01/2024;VAO;;61;;"Chérif HADREB :
+Une pose, de panneau acoustique, sans plénum rapporté directement en sous face de plancher. panneaux Organic Minéral de chez Kanuf ép. 75mm au moins permettant une absorption acoustique de 1,0.";;05/10/2023;-10;29/10/2023;F;;67;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;0;RIGITONE R MIX;0;RigitoneRMix.pdf;DI;05/10/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Fiche Technique Produit;;;05/10/2023;-4;23/10/2023;REF;;51;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;05/10/2023;-88;15/01/2024;REF;;62;;"Chérif HADREB :
+Non cohérent à la référence du plafond de la notice acoustique";"Romario BANDULA :
+Ceci n'est pas la fiche technique du plafond, mais du joint qu'on utilise pour la jonction des plaques perforées. 
+
+Cordialement,";05/10/2023;-10;29/10/2023;F;;66;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;DET;1;DETAILS + COUPE BACS METALLIQUE;0;EC3-LOURD.pdf;DI;29/09/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Pièces graphiques;;;29/09/2023;-17;30/10/2023;VAO;;152;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;29/09/2023;-94;15/01/2024;VOB;;63;;"Chérif HADREB :
+Préciser le taux de perforation des bacs métalliques en cohérence avec l'absorption acoustique recherchée de 0,75 au moins.
+Transmettre un PV ou rapport d'essai acoustique";;29/09/2023;-16;29/10/2023;F;;75;;;;;;;;;;;;;;
+PECM;EXE;DPR;FP;BUR;R+1;FTP;1;FT BACS METALLIQUE CIRCULATION;0;BACS BASCULANTS - EC3.pdf;DI;29/09/2023;;Romario BANDULA;/01 - DOC EXE/Lot 14 - Plafonds Suspendus/Fiche Technique Produit;;;29/09/2023;-10;23/10/2023;VOB;;52;;"Roberto SABELLA :
+-	Ajouter une page de garde, avec les informations sur :
+Libelle 
+Description du produit
+Dénomination
+Destination / Localisation
+Fournisseur
+Type et référence / coloris
+Caractéristique technique
+Référence article CCTP / Plan";;;;;;;;;;;;;;;;;;;;;;;;;;;;;29/09/2023;-94;15/01/2024;VOB;;64;;"Chérif HADREB :
+Une fiche technique généraliste ne peut être considérée comme un PV acoustique.";;29/09/2023;-16;29/10/2023;F;;65;;;;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;1;PLAN MEXT RUE MARENGO;0;MEXT R+1 Rue Marengo - MEXT Rue Marengo Ind0.pdf;DI;25/09/2023;;Romario BANDULA;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;25/09/2023;;03/10/2023;REF;;17;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;25/09/2023;-97;15/01/2024;VOB;;65;;"Chérif HADREB :
+Dito Visas précédents, 
+Transmettre PV acoustique justifiant l'affaiblissement acoustique des châssis Oscillo et châssis OP";;25/09/2023;-91;09/01/2024;S;;153;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";;;;;;;;;;;;
+PECM;EXE;DPR;MEXT;BUR;R+1;PLN;0;MEXT TYPE 1 RIVOLI;0;162 rue de Rivoli - MEXT Type 1 Ind0 .pdf;DI;18/09/2023;;Julien MATHIEU;/01 - DOC EXE/Lot 05 - MEXT/Pièces graphiques;;;18/09/2023;-1;03/10/2023;VOB;;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;18/09/2023;-105;15/01/2024;VOB;;66;;"Chérif HADREB :
+Dito visas précédents, 
+Nous transmettre le PV acoustique de l'ensemble des châssis : fixe, ouvrant oscillo et OP";;18/09/2023;-99;09/01/2024;S;;154;;"Meriem ABDELLAOUI :
+Voir FED-4 en pièce jointe.";;;;;;;;;;;;
